@@ -22,6 +22,7 @@ const state = {
   activeMonth: TODAY_MONTH, // Default to current month
   activeYear: 2026,
   isGalleryOpen: false,
+  isAboutOpen: false,
   filters: {
     martyr: 'all', // 'all' | 'martyr' | 'non-martyr'
     tradition: 'all', // 'all' | 'Eastern Orthodox' | 'Catholic' | 'Shared'
@@ -37,6 +38,10 @@ const elements = {
   searchClearBtn: document.getElementById('search-clear-btn'),
   todayGalleryBtn: document.getElementById('today-gallery-btn'),
   todayGalleryBtnLabel: document.getElementById('today-gallery-btn-label'),
+  aboutBtn: document.getElementById('about-btn'),
+  aboutModal: document.getElementById('about-modal'),
+  aboutBackdrop: document.getElementById('about-backdrop'),
+  aboutCloseBtn: document.getElementById('about-close-btn'),
   prevMonthBtn: document.getElementById('prev-month-btn'),
   nextMonthBtn: document.getElementById('next-month-btn'),
   monthSelect: document.getElementById('month-select'),
@@ -454,6 +459,26 @@ function closeGallery() {
 }
 
 /**
+ * Open About Panel Modal
+ */
+function openAbout() {
+  state.isAboutOpen = true;
+  if (elements.aboutModal) {
+    elements.aboutModal.hidden = false;
+  }
+}
+
+/**
+ * Close About Panel Modal
+ */
+function closeAbout() {
+  state.isAboutOpen = false;
+  if (elements.aboutModal) {
+    elements.aboutModal.hidden = true;
+  }
+}
+
+/**
  * Navigate Gallery Mode by Step (-1 for previous day, +1 for next day)
  */
 function navigateGallery(step) {
@@ -588,6 +613,17 @@ function setupEventListeners() {
     });
   }
 
+  // About Button & Modal Controls
+  if (elements.aboutBtn) {
+    elements.aboutBtn.addEventListener('click', openAbout);
+  }
+  if (elements.aboutCloseBtn) {
+    elements.aboutCloseBtn.addEventListener('click', closeAbout);
+  }
+  if (elements.aboutBackdrop) {
+    elements.aboutBackdrop.addEventListener('click', closeAbout);
+  }
+
   // Gallery Modal Controls
   if (elements.galleryCloseBtn) {
     elements.galleryCloseBtn.addEventListener('click', closeGallery);
@@ -665,7 +701,19 @@ function setupEventListeners() {
 
   // Keyboard Navigation: Step between days with Left/Right arrows (both Calendar & Gallery Mode)
   window.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      if (state.isAboutOpen) {
+        closeAbout();
+        return;
+      }
+      if (state.isGalleryOpen) {
+        closeGallery();
+        return;
+      }
+    }
+
     if (['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement?.tagName)) return;
+    if (state.isAboutOpen) return;
 
     const currentIndex = state.saints.findIndex(s => s.id === state.selectedSaintId);
     if (currentIndex === -1) return;
@@ -677,10 +725,6 @@ function setupEventListeners() {
       e.preventDefault();
       navigateGallery(-1);
     } else if (e.key === 'Escape') {
-      if (state.isGalleryOpen) {
-        closeGallery();
-        return;
-      }
       elements.searchInput.value = '';
       elements.searchClearBtn.style.display = 'none';
       state.filters.searchQuery = '';

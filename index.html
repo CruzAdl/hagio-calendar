@@ -53,6 +53,12 @@
           </svg>
           <span id="today-gallery-btn-label">Today's Saint Gallery</span>
         </button>
+        <button type="button" class="about-btn" id="about-btn" title="About This Project" aria-haspopup="dialog" aria-controls="about-modal">
+          <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true">
+            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/>
+          </svg>
+          <span>About</span>
+        </button>
       </div>
     </div>
   </header>
@@ -166,6 +172,51 @@
       <button type="button" class="gallery-nav-btn gallery-next-btn" id="gallery-next-btn" aria-label="Next Day Saint" title="Next Day Saint (Right Arrow)">
         <svg viewBox="0 0 24 24" width="28" height="28"><path fill="currentColor" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg>
       </button>
+    </div>
+  </div>
+
+  <!-- About Project Panel Modal -->
+  <div class="about-modal-overlay" id="about-modal" role="dialog" aria-modal="true" aria-labelledby="about-modal-title" hidden>
+    <div class="about-modal-backdrop" id="about-backdrop"></div>
+    <div class="about-panel">
+      <button type="button" class="about-close-btn" id="about-close-btn" aria-label="Close About Panel (Esc)" title="Close About Panel (Esc)">
+        &times;
+      </button>
+
+      <div class="about-panel-header">
+        <div class="about-header-ornament" aria-hidden="true">✠</div>
+        <h2 class="about-panel-title" id="about-modal-title">About the Calendar</h2>
+        <div class="about-panel-subtitle">Ecclesiastical Chronology &amp; Hagiographical Inspector</div>
+      </div>
+
+      <div class="about-panel-body">
+        <p class="about-lead-text">
+          The Hagiography &amp; Iconography Calendar of Female Saints is a standalone, full-year (365-day) liturgical calendar and hagiographical inspector celebrating historically attested holy women across Catholic, Eastern Orthodox, and Shared Christian traditions.
+        </p>
+
+        <div class="about-accuracy-box">
+          <h3 class="about-accuracy-heading">
+            <span aria-hidden="true">✦</span> Note on Visual Accuracy
+          </h3>
+          <p class="about-accuracy-text">
+            While all biographical narratives, feast dates, canonical titles, and martyrdom classifications in this calendar are cross-referenced against historical synaxaria, martyrologies, and liturgical records, the saint icons and images are programmatically sourced via the Wikimedia Commons API.
+          </p>
+          <p class="about-accuracy-text">
+            Consequently, not all displayed pictures are guaranteed to be accurate depictions of that specific saint. In cases where a dedicated public-domain Eastern Orthodox or Catholic icon of an obscure early Christian or medieval female saint does not exist in Wikimedia Commons, the automated image pipeline may retrieve artwork depicting a similarly named saint, a manuscript illumination, a reliquary or church dedicated to her, a general liturgical scene, or adjacent period iconography.
+          </p>
+        </div>
+
+        <div class="about-footer-links">
+          <span class="about-source-label">Project Repository &amp; Source Code</span>
+          <a href="https://github.com/CruzAdl/hagio-calendar" target="_blank" rel="noopener noreferrer" class="about-github-link">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/>
+            </svg>
+            <span>https://github.com/CruzAdl/hagio-calendar</span>
+            <span aria-hidden="true" class="external-arrow">↗</span>
+          </a>
+        </div>
+      </div>
     </div>
   </div>
 
