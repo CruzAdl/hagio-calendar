@@ -31,3 +31,6 @@ README.html
 # Explicitly track the compiled production bundle (dist/)
 !dist/
 !dist/**
+
+# Local agent context blueprint (ignored by Git)
+agent-blueprint*
