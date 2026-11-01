@@ -1,0 +1,824 @@
+[
+  {
+    "id": "saint-04-01",
+    "month": 4,
+    "day": 1,
+    "date": "April 1",
+    "name": "Saint Mary of Egypt",
+    "title": "Venerable Mother Mary of Egypt, Desert Penitent and Wonderworker",
+    "tradition": "Shared",
+    "curatedBio": "Mary lived seventeen years in Alexandria as a public courtesan before traveling to Jerusalem. Barred by a divine barrier from entering the Church of the Holy Sepulchre, she wept before an icon of the Virgin Mary, received absolution, and crossed the Jordan into the desert. For forty-seven years she lived in complete wilderness isolation, triumphing over demonic passions through relentless prayer and subsisting on miraculous grace until her meeting with Father Zosimas.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Mary reposed peacefully in the desert around 421; Father Zosimas discovered her holy body with an inscription in the sand.",
+    "image": {
+      "url": "/icons/saint-04-01.jpg",
+      "title": "Saint Mary of Egypt Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mary_of_Egypt"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/04/01/100963-venerable-mary-of-egypt"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-02",
+    "month": 4,
+    "day": 2,
+    "date": "April 2",
+    "name": "Saint Theodosia of Tyre",
+    "title": "Holy Virgin Martyr Theodosia of Tyre",
+    "tradition": "Shared",
+    "curatedBio": "Theodosia was an eighteen-year-old Christian maiden of Tyre in Phoenicia during the Diocletian persecutions. Visiting Christian prisoners condemned to the copper mines of Palestine, she comforted them and asked to be remembered in their prayers. Arrested and dragged before the Roman governor Urbanus at Caesarea Maritima, she refused to sacrifice to idols. The governor ordered her sides torn with iron claws to the bone and thrown into the Mediterranean Sea.",
+    "isMartyr": true,
+    "mannerOfDeath": "Drowned in the sea",
+    "deathSummary": "Saint Theodosia was tied to a heavy stone and cast into the sea at Caesarea Maritima on April 2, 307.",
+    "image": {
+      "url": "/icons/saint-04-02.jpg",
+      "title": "Saint Theodosia of Tyre Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Theodosia_of_Tyre"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/04/03/100976-virgin-martyr-theodosia-of-tyre"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-03",
+    "month": 4,
+    "day": 3,
+    "date": "April 3",
+    "name": "Saint Burgundofara",
+    "title": "Saint Burgundofara (Fara), Frankish Foundress and Abbess of Faremoutiers",
+    "tradition": "Shared",
+    "curatedBio": "Burgundofara was born into a prominent Frankish noble family and consecrated to God in childhood by the Irish missionary Saint Columbanus. When her father later attempted to force her into political marriage, she was stricken with a violent fever and blindness, which vanished when her father relented. Around 620, she founded the double monastery of Faremoutiers, introducing the strict Columbanian Rule and governing the abbey for forty years as a haven of monastic scholarship and charity.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Burgundofara died peacefully at Faremoutiers Abbey on April 3, 657 at approximately sixty years of age.",
+    "image": {
+      "url": "/icons/saint-04-03.jpg",
+      "title": "Saint Burgundofara Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Burgundofara"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/06002b.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-04",
+    "month": 4,
+    "day": 4,
+    "date": "April 4",
+    "name": "Saint Pherbutha of Persia",
+    "title": "Holy Virgin Martyr Pherbutha (Ferbuta) of Seleucia",
+    "tradition": "Shared",
+    "curatedBio": "Pherbutha was the sister of Saint Simeon Barsabae, Bishop of Seleucia-Ctesiphon, who was martyred by Persian King Shapur II in 341. Serving as a consecrated virgin, she was arrested alongside her widowed sister and servant following false accusations from Zoroastrian Magi that they had poisoned Queen Shapur. Offered freedom if she agreed to wed the Zoroastrian chief priest, Pherbutha replied that she was consecrated to Christ alone.",
+    "isMartyr": true,
+    "mannerOfDeath": "Sawn in two with a wooden saw",
+    "deathSummary": "Saint Pherbutha was tied to stakes and sawn in two at Seleucia in 342 under King Shapur II.",
+    "image": {
+      "url": "/icons/saint-04-04.jpg",
+      "title": "Saint Pherbutha of Persia Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pherbutha"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/04/04/100994-virgin-martyr-pherbutha-of-persia-her-sister-and-servant"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-05",
+    "month": 4,
+    "day": 5,
+    "date": "April 5",
+    "name": "Saint Juliana of Cornillon",
+    "title": "Saint Juliana of Cornillon, Premonstratensian Mystic of the Eucharist",
+    "tradition": "Catholic",
+    "curatedBio": "Born near Liège, Belgium in 1193 and orphaned at age five, Juliana was raised by the Augustinian canonesses at Mont-Cornillon leper hospital. From age sixteen she received repeated visions of the full moon with a black stripe, interpreted by Christ as the absence of a liturgical feast dedicated solely to the Blessed Sacrament. Her persistent theological advocacy and collaboration with Jacques Pantaléon (later Pope Urban IV) led to the universal institution of the Solemnity of Corpus Christi in 1264.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Juliana died peacefully in a recluse cell at Fosses-la-Ville on April 5, 1258 at sixty-five years of age.",
+    "image": {
+      "url": "/icons/saint-04-05.jpg",
+      "title": "Saint Juliana of Cornillon Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Juliana_of_Cornillon"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/08556a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-06",
+    "month": 4,
+    "day": 6,
+    "date": "April 6",
+    "name": "Saint Catherine of Genoa",
+    "title": "Saint Catherine of Genoa, Mystic of Divine Love and Purgatory",
+    "tradition": "Catholic",
+    "curatedBio": "Caterina Fieschi was born in Genoa in 1447 into a distinguished patrician family. Married at sixteen to a dissolute nobleman, she endured ten years of emotional devastation before an overwhelming mystical encounter during confession in 1473 transformed her life. Together with her converted husband, she moved into the Pammatone Hospital in Genoa, serving terminal plague patients for twenty-two years as hospital directress. Her sublime mystical writings, notably The Treatise on Purgatory, profoundly influenced Catholic spiritual theology.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Catherine died peacefully in Genoa on September 15, 1510 at sixty-three years of age; her body remains incorrupt.",
+    "image": {
+      "url": "/icons/saint-04-06.jpg",
+      "title": "Saint Catherine of Genoa Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Catherine_of_Genoa"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/034462.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-07",
+    "month": 4,
+    "day": 7,
+    "date": "April 7",
+    "name": "Blessed Ursulina of Parma",
+    "title": "Blessed Ursulina of Parma, Messenger of Peace to Avignon",
+    "tradition": "Catholic",
+    "curatedBio": "Ursulina was born in Parma in 1375 into a devout family. At age fifteen, she received interior mystical revelations instructing her to travel to Avignon and Rome to implore Antipope Clement VII and Pope Boniface IX to end the Great Western Schism. Traveling on foot across the Alps with her mother, she addressed the rival pontiffs with remarkable diplomatic courage and evangelical fervor, seeking the unity of Christ’s Church before retiring to Parma in contemplative charity.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Blessed Ursulina died peacefully in Verona on April 7, 1410 at thirty-five years of age.",
+    "image": {
+      "url": "/icons/saint-04-07.jpg",
+      "title": "Blessed Ursulina of Parma Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ursulina_of_Parma"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-08",
+    "month": 4,
+    "day": 8,
+    "date": "April 8",
+    "name": "Saint Julie Billiart",
+    "title": "Saint Julie Billiart, Foundress of the Sisters of Notre Dame de Namur",
+    "tradition": "Catholic",
+    "curatedBio": "Marie Rose Julie Billiart was born in Cuvilly, France in 1751. Following a shooting attack on her father's shop, the severe trauma left her completely paralyzed for twenty-two years. From her bed, she taught catechism to village children and sheltered hunted priests during the French Revolution. In 1804 at Amiens, she was miraculously healed of paralysis and founded the Sisters of Notre Dame de Namur, dedicating her congregation to the free Christian education of poor girls.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Julie died peacefully in Namur, Belgium on April 8, 1816 at sixty-four years of age.",
+    "image": {
+      "url": "/icons/saint-04-08.jpg",
+      "title": "Saint Julie Billiart Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Julie_Billiart"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/02567a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-09",
+    "month": 4,
+    "day": 9,
+    "date": "April 9",
+    "name": "Saint Casilda of Toledo",
+    "title": "Saint Casilda of Toledo, Virgin Recluse of Burgos",
+    "tradition": "Catholic",
+    "curatedBio": "Casilda was the daughter of the Muslim ruler Al-Mamun of Toledo in eleventh-century Spain. Moved by compassion for Christian prisoners held in her father’s dungeons, she secretly carried bread to them wrapped in her robes. When confronted by her father’s guards, the bread miraculously turned into a bouquet of fragrant roses. Following a miraculous healing of severe hemorrhage in the holy waters of San Vicente near Briviesca, she was baptized and lived as a solitary hermit.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Casilda reposed peacefully in her hermitage near Briviesca around 1050 at an advanced age.",
+    "image": {
+      "url": "/icons/saint-04-09.jpg",
+      "title": "Saint Casilda of Toledo Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Casilda_of_Toledo"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-10",
+    "month": 4,
+    "day": 10,
+    "date": "April 10",
+    "name": "Saint Magdalene of Canossa",
+    "title": "Saint Magdalene of Canossa, Foundress of the Canossian Daughters of Charity",
+    "tradition": "Catholic",
+    "curatedBio": "Born in Verona in 1774 into the illustrious noble house of Canossa, Magdalene experienced childhood abandonment and serious illness before resolving to serve Christ in the poor. Shocked by the moral degradation and poverty following the Napoleonic Wars in northern Italy, she abandoned her ancestral palace in 1808. She moved into the poorest district of Verona, establishing free charity schools for girls, nursing the abandoned sick, and founding the Canossian Daughters of Charity.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Magdalene died peacefully in Verona on Good Friday, April 10, 1835 at sixty-one years of age.",
+    "image": {
+      "url": "/icons/saint-04-10.jpg",
+      "title": "Saint Magdalene of Canossa Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Magdalene_of_Canossa"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/09524a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-11",
+    "month": 4,
+    "day": 11,
+    "date": "April 11",
+    "name": "Saint Gemma Galgani",
+    "title": "Saint Gemma Galgani, The Flower of Lucca and Passionist Mystic",
+    "tradition": "Catholic",
+    "curatedBio": "Gemma was born near Lucca, Italy in 1878 and lost her mother in childhood. Afflicted with spinal tuberculosis, she was miraculously healed in 1899 following a novena to Saint Gabriel of Our Lady of Sorrows. Gifted with intense mystical colloquies, she sustained the sacred stigmata on her hands, feet, and side every Thursday through Friday, bearing the visible wounds of Christ’s Passion with childlike humility while living as a quiet laywoman in the Giannini household.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Gemma died of tuberculosis in Lucca on Holy Saturday, April 11, 1903 at twenty-five years of age.",
+    "image": {
+      "url": "/icons/saint-04-11.jpg",
+      "title": "Saint Gemma Galgani Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gemma_Galgani"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-12",
+    "month": 4,
+    "day": 12,
+    "date": "April 12",
+    "name": "Saint Vissia of Fermo",
+    "title": "Holy Virgin Martyr Vissia of Fermo",
+    "tradition": "Shared",
+    "curatedBio": "Vissia was a noble Christian virgin living in the Picenum region of Italy during the persecutions under Emperor Decius. Dedicated to perpetual chastity and prayer, she was denounced to Roman magistrate Falconius for refusing to offer incense to pagan gods. When threats and promises failed to break her faith, she was scourged, racked, and led out of the city walls where she commended her soul to Jesus Christ before suffering decapitation.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation",
+    "deathSummary": "Saint Vissia was beheaded at Fermo around 250; her relics are venerated in the Cathedral of Fermo.",
+    "image": {
+      "url": "/icons/saint-04-12.jpg",
+      "title": "Saint Vissia of Fermo Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vissia_of_Fermo"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-13",
+    "month": 4,
+    "day": 13,
+    "date": "April 13",
+    "name": "Saint Margaret of Castello",
+    "title": "Saint Margaret of Castello, Blind and Crippled Dominican Penitent",
+    "tradition": "Catholic",
+    "curatedBio": "Born near Florence in 1287, Margaret was born blind, hunchbacked, and lame. Horrified by her deformities, her noble parents locked her in a vault near a church for fourteen years. Taken to Città di Castello to seek a miraculous cure that failed, her parents abandoned her on the streets. Taken in by impoverished townsfolk, she became a Dominican tertiary, spending her life in ecstatic prayer, visiting prisoners, and counseling the sick with supernatural joy and compassion.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Margaret died peacefully in Città di Castello on April 13, 1320 at thirty-three; her body remains incorrupt.",
+    "image": {
+      "url": "/icons/saint-04-13.jpg",
+      "title": "Saint Margaret of Castello Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Margaret_of_Castello"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-14",
+    "month": 4,
+    "day": 14,
+    "date": "April 14",
+    "name": "Saint Lydwina of Schiedam",
+    "title": "Saint Lydwina of Schiedam, Patroness of Ice Skaters and Chronic Illness",
+    "tradition": "Catholic",
+    "curatedBio": "Born in Schiedam near Rotterdam in 1380, Lydwina was injured in an ice skating fall at age fifteen, breaking a rib. The injury turned gangrenous and developed into total, agonizing paralysis, confining her to her bed for thirty-eight years. Instructed by her priest to meditate upon the Passion of Christ, she embraced her bed as an altar of redemptive suffering. She was gifted with mystical ecstasies and sustained solely by the Holy Eucharist during her final seven years.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Lydwina died peacefully on Easter Tuesday, April 14, 1433 at fifty-three years of age.",
+    "image": {
+      "url": "/icons/saint-04-14.jpg",
+      "title": "Saint Lydwina of Schiedam Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lydwina"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/09272a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-15",
+    "month": 4,
+    "day": 15,
+    "date": "April 15",
+    "name": "Saint Hunna of Alsace",
+    "title": "Saint Hunna, The Holy Washerwoman of Alsace",
+    "tradition": "Shared",
+    "curatedBio": "Hunna was the noble wife of Huno of Hunawihr in Alsace during the seventh century. Devoted to Christian charity, she personally washed the clothing and linens of her impoverished peasants and lepers, earning the affectionate title of \"the Holy Washerwoman\". When her son Deodatus was born, she consecrated him to God, and he later became a monk and bishop. Her unpretentious holiness demonstrated that sanctity is achieved through the humblest duties performed with supernatural love.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Hunna reposed peacefully at Hunawihr around 679; her tomb was a beloved pilgrimage shrine in Alsace.",
+    "image": {
+      "url": "/icons/saint-04-15.jpg",
+      "title": "Saint Hunna of Alsace Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hunna"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-16",
+    "month": 4,
+    "day": 16,
+    "date": "April 16",
+    "name": "Saint Encratis of Zaragoza",
+    "title": "Holy Virgin Martyr Encratis (Engracia) of Zaragoza",
+    "tradition": "Shared",
+    "curatedBio": "Encratis was a noble Lusitanian maiden traveling through Hispania Tarraconensis to Roussillon to marry a Christian prince around 304. Arriving in Zaragoza during the Diocletian persecutions, she witnessed the brutal torture of Christian citizens under governor Dacian. Moved by righteous indignation, she publicly rebuked the governor for shedding innocent blood. Arrested immediately, she was scourged, tied to horses, and mutilated with iron combs, surviving excruciating tortures with intrepid fortitude.",
+    "isMartyr": true,
+    "mannerOfDeath": "Iron nail driven into her forehead",
+    "deathSummary": "Saint Encratis was martyred at Zaragoza around 304 when an iron nail was driven through her forehead.",
+    "image": {
+      "url": "/icons/saint-04-16.jpg",
+      "title": "Saint Encratis of Zaragoza Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Encratis"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/05478b.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-17",
+    "month": 4,
+    "day": 17,
+    "date": "April 17",
+    "name": "Saint Kateri Tekakwitha",
+    "title": "Saint Kateri Tekakwitha, Lily of the Mohawks",
+    "tradition": "Catholic",
+    "curatedBio": "Tekakwitha was born in 1656 at Ossernenon (Auriesville, New York) to a Mohawk chief and Christian Algonquin mother. Orphaned at age four by smallpox that scarred her face and impaired her vision, she was raised by her anti-Christian uncle. Converted by Jesuit missionaries, she received baptism in 1676 as Catherine (Kateri). Facing intense persecution from her tribe, she fled two hundred miles on foot to the Catholic mission at Kahnawake near Montreal, living five years of extraordinary mortification and virginal prayer.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Kateri died at Kahnawake on April 17, 1680 at twenty-four; moments after her death, her smallpox scars miraculously vanished.",
+    "image": {
+      "url": "/icons/saint-04-17.jpg",
+      "title": "Saint Kateri Tekakwitha Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kateri_Tekakwitha"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/14471a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-18",
+    "month": 4,
+    "day": 18,
+    "date": "April 18",
+    "name": "Saint Anthousa of Constantinople",
+    "title": "Saint Anthousa of Constantinople, Imperial Nun and Defender of Icons",
+    "tradition": "Eastern Orthodox",
+    "curatedBio": "Anthousa was the daughter of Byzantine iconoclast Emperor Constantine V Copronymus. Despite her father’s bitter persecution of icon venerators and pressure on her to marry, Anthousa embraced monastic virginity, being tonsured by Patriarch Tarasios. Using her imperial wealth, she founded the double monastery of Saint Euphemia at the Golden Horn, financing orphanages and shelters for widows, and boldly defended the veneration of holy images leading up to the Seventh Ecumenical Council.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Anthousa reposed peacefully at Constantinople around 809 at fifty-two years of age.",
+    "image": {
+      "url": "/icons/saint-04-18.jpg",
+      "title": "Saint Anthousa of Constantinople Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anthusa_of_Constantinople"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/04/18/101140-venerable-anthusa-of-constantinople"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-19",
+    "month": 4,
+    "day": 19,
+    "date": "April 19",
+    "name": "Saint Emma of Lesum",
+    "title": "Saint Emma of Lesum, Countess and Benefactress of Bremen",
+    "tradition": "Shared",
+    "curatedBio": "Emma was a Saxon noblewoman of the Immedinger family and sister of Bishop Meinwerk of Paderborn. Married to Count Liudger of Saxony, following his early death in 1011, she dedicated her immense widow's wealth to the Church and the alleviation of poverty. She endowed Bremen Cathedral with expansive estates and funded the construction of churches throughout Lower Saxony, spending her final three decades in solitary prayer and personally caring for sick peasants.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Countess Emma died peacefully in Bremen on April 19, 1038; her tomb in Bremen Cathedral was venerated for centuries.",
+    "image": {
+      "url": "/icons/saint-04-19.jpg",
+      "title": "Saint Emma of Lesum Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Emma_of_Lesum"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-20",
+    "month": 4,
+    "day": 20,
+    "date": "April 20",
+    "name": "Saint Agnes of Montepulciano",
+    "title": "Saint Agnes of Montepulciano, Dominican Prioress and Wonderworker",
+    "tradition": "Catholic",
+    "curatedBio": "Born in Gracciano near Montepulciano in 1268, Agnes entered a Franciscan convent at age nine. At age fifteen, the citizens of Proceno requested her to establish a monastery, where she was appointed abbess by papal dispensation. In 1306, instructed by a vision of Saint Dominic, she built a monastery of Dominican nuns in Montepulciano. Celebrated for prophetic knowledge and deep contemplative prayer, during which white manna miraculously fell upon her while praying, she governed her sisters with profound sanctity.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Agnes died peacefully in Montepulciano on April 20, 1317 at forty-nine; Saint Catherine of Siena visited her incorrupt body.",
+    "image": {
+      "url": "/icons/saint-04-20.jpg",
+      "title": "Saint Agnes of Montepulciano Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Agnes_of_Montepulciano"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/01225b.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-21",
+    "month": 4,
+    "day": 21,
+    "date": "April 21",
+    "name": "Saint Alexandra of Rome",
+    "title": "Holy Great Martyr Empress Alexandra of Rome",
+    "tradition": "Shared",
+    "curatedBio": "Alexandra was the imperial consort of Roman Emperor Diocletian. Witnessing the extraordinary miracles and supernatural courage of the Great Martyr George while he was tortured on the wheel and surviving unharmed, Alexandra stepped out of the imperial pavilion, fell at George’s feet, and openly confessed Jesus Christ as the true God. Enraged by her public apostasy from Roman paganism, Diocletian condemned his own empress to death by decapitation.",
+    "isMartyr": true,
+    "mannerOfDeath": "Condemned to decapitation; reposed before the sword",
+    "deathSummary": "Sentenced to execution alongside Saint George, Saint Alexandra prayed peacefully on the way to the scaffold and gave up her spirit around 303.",
+    "image": {
+      "url": "/icons/saint-04-21.jpg",
+      "title": "Saint Alexandra of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alexandra_of_Rome"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/04/21/101168-martyr-alexandra-the-empress-wife-of-diocletian"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-22",
+    "month": 4,
+    "day": 22,
+    "date": "April 22",
+    "name": "Saint Senorina of Basto",
+    "title": "Saint Senorina of Basto, Benedictine Abbess and Wonderworker of Portugal",
+    "tradition": "Catholic",
+    "curatedBio": "Senorina was born in Vieira do Minho around 924 into the Galician-Portuguese nobility, a relative of Saint Rudesind. Educated by her aunt Godina at the monastery of Saint John of Vieira, Senorina took Benedictine vows and was appointed abbess at age thirty-six. She moved the community to Basto, where she governed with exemplary humility. Recorded in early Portuguese hagiography, her prayers miraculously multiplied grain during regional famines and silenced noisy frogs whose croaking disturbed the monastic Office.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Senorina died peacefully at Basto on April 22, 982 at fifty-eight years of age; her tomb is in Basto.",
+    "image": {
+      "url": "/icons/saint-04-22.jpg",
+      "title": "Saint Senorina of Basto Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Senorina"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-23",
+    "month": 4,
+    "day": 23,
+    "date": "April 23",
+    "name": "Saint Polychronia",
+    "title": "Saint Polychronia, Mother of the Holy Great Martyr George",
+    "tradition": "Shared",
+    "curatedBio": "Polychronia was a devout Christian noblewoman of Lydda (Diospolis) in Palestine. Married to the imperial Roman senator Gerontios of Cappadocia, she raised her son George in strict Christian piety following her husband's early martyrdom. When George boldly confessed Christ before Diocletian, Polychronia traveled to Nicomedia to encourage him in his sufferings. Openly affirming her own Christian faith before the emperor, she was arrested, severely scourged, and crowned with martyrdom.",
+    "isMartyr": true,
+    "mannerOfDeath": "Martyred under Diocletian",
+    "deathSummary": "Saint Polychronia was martyred in Nicomedia around 303 shortly before the execution of her son Saint George.",
+    "image": {
+      "url": "/icons/saint-04-23.jpg",
+      "title": "Saint Polychronia Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Polychronia"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-24",
+    "month": 4,
+    "day": 24,
+    "date": "April 24",
+    "name": "Saint Mary Euphrasia Pelletier",
+    "title": "Saint Mary Euphrasia Pelletier, Foundress of the Good Shepherd Sisters",
+    "tradition": "Catholic",
+    "curatedBio": "Rose Virginie Pelletier was born on Noirmoutier island, France in 1796 during the anti-clerical French Revolution. In 1814 she joined the Order of Our Lady of Charity of the Refuge in Tours, taking the name Mary Euphrasia. Recognizing that rescuing traumatized women and young girls required centralized governance, in 1835 she established the Congregation of Our Lady of Charity of the Good Shepherd in Angers, founding one hundred and ten convents worldwide during her lifetime.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Mary Euphrasia died of cancer in Angers on April 24, 1868 at seventy-one years of age.",
+    "image": {
+      "url": "/icons/saint-04-24.jpg",
+      "title": "Saint Mary Euphrasia Pelletier Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mary_Euphrasia_Pelletier"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/11608a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-25",
+    "month": 4,
+    "day": 25,
+    "date": "April 25",
+    "name": "Saint Franca of Piacenza",
+    "title": "Saint Franca Visdomini, Cistercian Abbess and Contemplative",
+    "tradition": "Catholic",
+    "curatedBio": "Franca was born in Piacenza in 1175 into the noble Visdomini family. Placed in the Benedictine convent of Saint Siro at age seven, she took vows at fourteen and was elected abbess at twenty-four. Striving for deeper silence and stricter mortification, she led her community into the Cistercian Order, founding the monastery of Pittolo. She spent her nights in choir reciting the Psalter with outstretched arms, counseling the citizens of Lombardy with spiritual wisdom.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Franca died peacefully at Pittolo on April 25, 1218 at forty-three years of age.",
+    "image": {
+      "url": "/icons/saint-04-25.jpg",
+      "title": "Saint Franca of Piacenza Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Franca_Visdomini"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-26",
+    "month": 4,
+    "day": 26,
+    "date": "April 26",
+    "name": "Blessed Alda of Siena",
+    "title": "Blessed Alda (Aldobrandesca) of Siena, Humiliate Penitent",
+    "tradition": "Catholic",
+    "curatedBio": "Alda was born in Siena in 1249 into the noble Bellabanti family. Following the early death of her husband, she gave away her entire wealth to the poor and joined the Third Order of the Humiliati. She spent her remaining years nursing the sick in the municipal hospital of Siena, caring for destitute patients with infectious wounds and enduring mystical ecstasies and demonic attacks with patient contemplation of Christ’s wounds.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Blessed Alda died peacefully in Siena on April 26, 1309 at sixty years of age.",
+    "image": {
+      "url": "/icons/saint-04-26.jpg",
+      "title": "Blessed Alda of Siena Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alda_of_Siena"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-27",
+    "month": 4,
+    "day": 27,
+    "date": "April 27",
+    "name": "Saint Zita of Lucca",
+    "title": "Saint Zita of Lucca, Patroness of Domestic Servants",
+    "tradition": "Catholic",
+    "curatedBio": "Born in Monsagrati near Lucca in 1212 into a poor peasant family, Zita became a domestic servant in the Fatinelli household at age twelve, serving the same family for forty-eight years. Despite initial ridicule and cruelty from fellow servants, she greeted every task as service to Christ, rising before dawn to attend daily Mass and secretly feeding the hungry with her own rations. Her master once found her kitchen full of angels baking bread while she was rapt in prayer.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Zita died peacefully in Lucca on April 27, 1272 at sixty years of age; her body remains incorrupt in the Basilica of San Frediano.",
+    "image": {
+      "url": "/icons/saint-04-27.jpg",
+      "title": "Saint Zita of Lucca Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zita"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/15762a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-28",
+    "month": 4,
+    "day": 28,
+    "date": "April 28",
+    "name": "Saint Gianna Beretta Molla",
+    "title": "Saint Gianna Beretta Molla, Physician, Mother, and Martyr of Maternal Love",
+    "tradition": "Catholic",
+    "curatedBio": "Gianna was born near Milan in 1922, earning doctorates in medicine and surgery and opening a clinic in Mesero dedicated to mothers and infants. Married to Pietro Molla, she balanced medical service with joyous family life. During her fourth pregnancy in 1961, doctors discovered a large uterine fibroma. Given options that would have aborted her child, Gianna unequivocally instructed the surgeons to save the unborn child’s life regardless of the risk to her own.",
+    "isMartyr": false,
+    "mannerOfDeath": "Septic peritonitis following childbirth",
+    "deathSummary": "Saint Gianna gave birth to healthy daughter Gianna Emanuela and died seven days later on April 28, 1962 at thirty-nine years of age.",
+    "image": {
+      "url": "/icons/saint-04-28.jpg",
+      "title": "Saint Gianna Beretta Molla Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gianna_Beretta_Molla"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-29",
+    "month": 4,
+    "day": 29,
+    "date": "April 29",
+    "name": "Saint Catherine of Siena",
+    "title": "Saint Catherine of Siena, Doctor of the Church and Patroness of Europe",
+    "tradition": "Catholic",
+    "curatedBio": "Caterina Benincasa was born in Siena in 1347, the twenty-fifth child of a cloth dyer. Consecrating her virginity to Christ at age seven, she entered the Dominican Mantellate tertiary sisters. Experiencing mystical marriage to Christ, she cared for plague victims, converted condemned criminals on the scaffold, and dictated sublime spiritual treatises in The Dialogue. Her prophetic letters to Pope Gregory XI persuaded him to leave Avignon and return the papacy to Rome in 1377.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Catherine died in Rome on April 29, 1380 at thirty-three; she was proclaimed Doctor of the Church in 1970.",
+    "image": {
+      "url": "/icons/saint-04-29.jpg",
+      "title": "Saint Catherine of Siena Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Catherine_of_Siena"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/03447a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-04-30",
+    "month": 4,
+    "day": 30,
+    "date": "April 30",
+    "name": "Saint Marie of the Incarnation",
+    "title": "Saint Marie of the Incarnation, Ursuline Mystic and Mother of the Canadian Church",
+    "tradition": "Catholic",
+    "curatedBio": "Marie Guyart was born in Tours, France in 1599. Widowed at nineteen with an infant son, she entered the Ursuline monastery of Tours after experiencing mystical union with the Blessed Trinity. In 1639, answering a missionary calling, she sailed to New France, founding the Ursuline convent in Quebec—the first school for girls in North America. She mastered Huron, Algonquin, and Iroquois, composing dictionaries and catechisms while educating Indigenous and French girls.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Marie died peacefully in Quebec on April 30, 1672 at seventy-two years of age.",
+    "image": {
+      "url": "/icons/saint-04-30.jpg",
+      "title": "Saint Marie of the Incarnation Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marie_of_the_Incarnation_(Ursuline)"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/09677b.htm"
+      }
+    ]
+  }
+]

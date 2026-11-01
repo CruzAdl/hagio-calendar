@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Environment variables & secrets (keep .env.example tracked)
+.env
+.env.*
+!.env.example
+
+# Raw temporary API cache & scratch files
+cache/
+tmp/
+.cache/
+data/raw-*.json
+data/broken_images.json
+data/failed_icons.json
+data/still_failed.json
+
+# OS metadata
+.DS_Store
+**/.DS_Store
+Thumbs.db
+.Rhistory
+README.html
+
+# IDE & Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Explicitly track the compiled production bundle (dist/)
+!dist/
+!dist/**

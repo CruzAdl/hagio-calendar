@@ -1,0 +1,885 @@
+[
+  {
+    "id": "saint-07-01",
+    "month": 7,
+    "day": 1,
+    "date": "July 1",
+    "name": "Righteous Esther",
+    "title": "Righteous Queen Esther, Deliverer of her People",
+    "tradition": "Shared",
+    "curatedBio": "Esther was an orphan maiden of the tribe of Benjamin raised in Susa by her cousin Mordecai during the Babylonian captivity. Chosen as queen by Persian King Ahasuerus (Xerxes I), she concealed her Jewish identity until royal minister Haman plotted the extermination of all Jews in the empire. Urged by Mordecai and calling her people to three days of fasting and prayer, Esther boldly risked her life by entering the king's presence unsummoned, thwarting the genocidal plot and delivering her nation.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Queen Esther reposed peacefully in Persia in the fifth century BC; her tomb in Hamadan, Iran is venerated to this day.",
+    "image": {
+      "url": "/icons/saint-07-01.jpg",
+      "title": "Righteous Esther Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Esther"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/05546a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-02",
+    "month": 7,
+    "day": 2,
+    "date": "July 2",
+    "name": "Saint Monegundis of Chartres",
+    "title": "Saint Monegundis, Solitary Recluse of Tours",
+    "tradition": "Shared",
+    "curatedBio": "Monegundis was born into a prominent family in Chartres in the sixth century. Following the tragic death of her two young daughters from fever, she sank into profound mourning before receiving divine illumination to dedicate her grief entirely to God. With her husband's consent, she built a solitary anchorite cell in Chartres, living on barley bread and water. Later moving to Tours near the tomb of Saint Martin, she established a monastery where she healed the blind and sick.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Monegundis reposed peacefully in Tours around 570; her life was recorded by Saint Gregory of Tours.",
+    "image": {
+      "url": "/icons/saint-07-02.jpg",
+      "title": "Saint Monegundis of Chartres Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Monegundis"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-03",
+    "month": 7,
+    "day": 3,
+    "date": "July 3",
+    "name": "Saint Anatolia of Rome",
+    "title": "Holy Virgin Martyr Anatolia of Rome",
+    "tradition": "Shared",
+    "curatedBio": "Anatolia was a noble Christian maiden of Rome during the Decian persecution around 250. When her aristocratic pagan suitor Titus Aurelius was rejected because of her virginal dedication to Christ, he denounced her to the Roman magistrate. Confined to an estate in Picenum and subjected to venomous serpents that refused to bite her, she converted the executioner Audax. Condemned to death by sword, Anatolia knelt in serene prayer, sealing her bridal fidelity to Jesus Christ.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation",
+    "deathSummary": "Saint Anatolia was beheaded in Picenum around 250; her relics are venerated in the Abbey of Farfa.",
+    "image": {
+      "url": "/icons/saint-07-03.jpg",
+      "title": "Saint Anatolia of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anatolia_(saint)"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-04",
+    "month": 7,
+    "day": 4,
+    "date": "July 4",
+    "name": "Saint Elizabeth of Portugal",
+    "title": "Saint Elizabeth of Aragon, Queen of Portugal and Peacemaker",
+    "tradition": "Catholic",
+    "curatedBio": "Born in Zaragoza in 1271, Elizabeth was the daughter of King Peter III of Aragon and great-niece of Saint Elizabeth of Hungary. Married at twelve to King Denis of Portugal, she lived forty years of heroic patience amidst her husband's infidelity, raising his illegitimate children alongside her own. Renowned as the Peacemaker, on multiple occasions she rode unarmed onto the battlefield between feuding kings and armies, halting wars through prayer and moral authority.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Elizabeth died peacefully in Estremoz on July 4, 1336 at sixty-five; her body was found incorrupt at Coimbra.",
+    "image": {
+      "url": "/icons/saint-07-04.jpg",
+      "title": "Saint Elizabeth of Portugal Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_of_Portugal"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/05391b.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-05",
+    "month": 7,
+    "day": 5,
+    "date": "July 5",
+    "name": "Saint Zoe of Rome",
+    "title": "Holy Martyr Zoe of Rome, Wife of Saint Nicostratus",
+    "tradition": "Shared",
+    "curatedBio": "Zoe was the wife of Nicostratus, high jailer of Rome under Emperor Diocletian. Stricken mute for six years by a severe affliction of the throat, when Saint Sebastian visited Christian prisoners in her home, Zoe fell at Sebastian’s feet in silent supplication. Sebastian made the sign of the cross over her mouth, and her speech was immediately restored, praising God. Baptized alongside her husband and thirty-three household members, she was arrested while praying at Saint Peter's tomb.",
+    "isMartyr": true,
+    "mannerOfDeath": "Hanged by her hair over a fire of foul dung",
+    "deathSummary": "Saint Zoe was hanged by her hair over suffocating smoke and drowned in the Tiber River around 286.",
+    "image": {
+      "url": "/icons/saint-07-05.jpg",
+      "title": "Saint Zoe of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zoe_of_Rome"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/12/18/103576-martyr-zoe-at-rome"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-06",
+    "month": 7,
+    "day": 6,
+    "date": "July 6",
+    "name": "Saint Maria Goretti",
+    "title": "Saint Maria Goretti, Virgin Martyr of Purity and Forgiveness",
+    "tradition": "Catholic",
+    "curatedBio": "Maria was born in Corinaldo, Italy in 1890 into an impoverished sharecropping family that moved to the malaria-ridden marshes of Ferriere di Conca. Following her father's death, eleven-year-old Maria cooked, washed, and looked after her younger siblings while her mother labored in the fields. On July 5, 1902, twenty-year-old Alessandro Serenelli attempted to rape her; Maria resisted fiercely, warning him that he was committing a mortal sin. Alessandro stabbed her fourteen times with an awl.",
+    "isMartyr": true,
+    "mannerOfDeath": "Stabbed resisting sexual assault",
+    "deathSummary": "Before dying on July 6, 1902 at eleven, Maria forgave Alessandro, praying that he would join her in paradise; her forgiveness led to his complete repentance.",
+    "image": {
+      "url": "/icons/saint-07-06.jpg",
+      "title": "Saint Maria Goretti Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maria_Goretti"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-07",
+    "month": 7,
+    "day": 7,
+    "date": "July 7",
+    "name": "Saint Kyriake of Nicomedia",
+    "title": "Holy Great Martyr Kyriake (Dominica) of Nicomedia",
+    "tradition": "Shared",
+    "curatedBio": "Kyriake was born in Nicomedia to devout Christian parents who had prayed for a child, naming her Kyriake because she was born on the Lord's Day (Kyriake in Greek, Dominica in Latin). When the Diocletian persecutions began, her parents were exiled and Kyriake was brought before Caesar Maximian. Scourged, hung by her hair, and cast to hungry wild beasts that knelt and licked her feet, she converted hundreds of witnesses before an angel announced her heavenly crown.",
+    "isMartyr": true,
+    "mannerOfDeath": "Yielded her spirit in prayer before decapitation",
+    "deathSummary": "As the executioner raised his sword, Saint Kyriake knelt in prayer and yielded her soul directly to God around 303 in Nicomedia.",
+    "image": {
+      "url": "/icons/saint-07-07.jpg",
+      "title": "Saint Kyriake of Nicomedia Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kyriake"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/07/07/101962-great-martyr-kyriake-of-nicomedia"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-08",
+    "month": 7,
+    "day": 8,
+    "date": "July 8",
+    "name": "Saint Landrada of Munsterbilzen",
+    "title": "Saint Landrada, Frankish Abbess of Munsterbilzen",
+    "tradition": "Shared",
+    "curatedBio": "Landrada was a seventh-century noble Austrasian maiden who renounced secular wealth and courtly marriage to live as a solitary ascetic in the forest of Belisia (modern Bilzen, Belgium). Under the spiritual direction of Saint Lambert of Maastricht, she founded the monastery of Munsterbilzen around 670, attracting daughters of Frankish nobility to lives of prayer, liturgical choral chant, and care for the indigent.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Landrada died peacefully at Munsterbilzen Abbey on July 8, 690; her tomb became a celebrated pilgrimage center.",
+    "image": {
+      "url": "/icons/saint-07-08.jpg",
+      "title": "Saint Landrada of Munsterbilzen Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Landrada"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-09",
+    "month": 7,
+    "day": 9,
+    "date": "July 9",
+    "name": "Saint Veronica Giuliani",
+    "title": "Saint Veronica Giuliani, Capuchin Mystic and Stigmatist",
+    "tradition": "Catholic",
+    "curatedBio": "Ursula Giuliani was born in Mercatello sul Metauro, Italy in 1660. Entering the Capuchin Poor Clares in Città di Castello at age seventeen, she took the name Veronica. In 1697 she received the sacred stigmata on her hands, feet, and side, followed by an imprint of the Crown of Thorns upon her head. Subjected to humiliating ecclesiastical inquisitions and stripped of office to test her obedience, her heroic humility convinced her superiors. Her ten-volume spiritual diary remains a classic of mystical literature.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes (stroke)",
+    "deathSummary": "Saint Veronica died peacefully in Città di Castello on July 9, 1727 at sixty-six years of age; an autopsy revealed symbols of Christ's Passion imprinted on her heart.",
+    "image": {
+      "url": "/icons/saint-07-09.jpg",
+      "title": "Saint Veronica Giuliani Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Veronica_Giuliani"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/15361a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-10",
+    "month": 7,
+    "day": 10,
+    "date": "July 10",
+    "name": "Saint Felicity of Rome",
+    "title": "Holy Martyr Felicity of Rome and her Seven Sons",
+    "tradition": "Shared",
+    "curatedBio": "Felicity was a noble Roman Christian widow living during the reign of Emperor Antoninus Pius. After her husband's death, she consecrated her life to fasting, vigils, and distributing her estate to the poor while raising her seven sons: Januarius, Felix, Philip, Silvanus, Alexander, Vitalis, and Martial. Denounced by pagan priests for converting Roman patricians, Felicity was commanded to sacrifice. Refusing, she watched each of her seven sons martyred before her eyes, encouraging them to win eternal glory.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation after witnessing sons’ martyrdom",
+    "deathSummary": "Saint Felicity was beheaded in Rome around 165 four months after witnessing the martyrdom of her seven sons.",
+    "image": {
+      "url": "/icons/saint-07-10.jpg",
+      "title": "Saint Felicity of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Felicitas_of_Rome"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/06029a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-11",
+    "month": 7,
+    "day": 11,
+    "date": "July 11",
+    "name": "Saint Olga of Kiev",
+    "title": "Holy Princess Olga of Kiev, Equal-to-the-Apostles, Grand Duchess of Rus",
+    "tradition": "Shared",
+    "curatedBio": "Olga was born in Pskov around 890 and married Grand Prince Igor I of Kiev. Following Igor’s murder by the Drevlians in 945, Olga served as regent for her young son Sviatoslav I, ruling Kievan Rus with remarkable political and administrative brilliance. Traveling to Constantinople in 957, she received holy baptism from Patriarch Polyeuktos with Emperor Constantine VII as godfather, taking the name Helena. She preached Christ throughout Rus, preparing the spiritual ground for the Christianization of Rus under her grandson Saint Vladimir.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Olga reposed peacefully in Kiev on July 11, 969 at approximately seventy-nine years of age; her incorrupt relics rested in the Tithe Church.",
+    "image": {
+      "url": "/icons/saint-07-11.jpg",
+      "title": "Saint Olga of Kiev Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Olga_of_Kiev"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/07/11/102003-st-olga-princess-of-russia-in-holy-baptism-called-helen"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-12",
+    "month": 7,
+    "day": 12,
+    "date": "July 12",
+    "name": "Saint Veronica",
+    "title": "Saint Veronica, The Woman with the Issue of Blood",
+    "tradition": "Shared",
+    "curatedBio": "According to Christian tradition, Veronica was the woman suffering from a twelve-year hemorrhage recorded in the Gospels who touched the hem of Jesus’s garment and was immediately healed. As Christ carried His heavy Cross along the Via Dolorosa to Mount Calvary, Veronica stepped out from the weeping crowd, took her linen veil, and tenderly wiped the blood and sweat from His holy face. Miraculously, the true image (Vera Icon) of Christ's sacred countenance was permanently imprinted upon her cloth.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Veronica reposed peacefully in Rome in the first century; her sacred veil has been venerated at Saint Peter's Basilica for centuries.",
+    "image": {
+      "url": "/icons/saint-07-12.jpg",
+      "title": "Saint Veronica Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saint_Veronica"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/07/12/102008-st-veronica-the-woman-with-the-issue-of-blood-who-was-healed-by-c"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/15362a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-13",
+    "month": 7,
+    "day": 13,
+    "date": "July 13",
+    "name": "Saint Clelia Barbieri",
+    "title": "Saint Clelia Barbieri, Youngest Foundress in Church History",
+    "tradition": "Catholic",
+    "curatedBio": "Born in San Giovanni in Persiceto near Bologna in 1847 into extreme poverty, Clelia spun hemp and assisted her parish priest by teaching catechism from age fourteen. In 1868, at only twenty-one, she united with three companions to establish the Little Sisters of the Mother of Sorrows (Minime dell'Addolorata), dedicating their community to caring for the abandoned elderly, educating poor children, and nursing the sick in rural Italian villages.",
+    "isMartyr": false,
+    "mannerOfDeath": "Tuberculosis",
+    "deathSummary": "Saint Clelia died of tuberculosis on July 13, 1870 at twenty-three; her miraculous voice is heard singing alongside her sisters' choir to this day.",
+    "image": {
+      "url": "/icons/saint-07-13.jpg",
+      "title": "Saint Clelia Barbieri Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clelia_Barbieri"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-14",
+    "month": 7,
+    "day": 14,
+    "date": "July 14",
+    "name": "Saint Kateri Tekakwitha",
+    "title": "Saint Kateri Tekakwitha, Lily of the Mohawks",
+    "tradition": "Catholic",
+    "curatedBio": "Tekakwitha was born in 1656 at Ossernenon in Mohawk country. Orphaned at age four by smallpox that impaired her eyesight and scarred her face, she lived a life of quiet recollection. Baptized by Jesuit missionary Father Jacques de Lamberville in 1676, she made a vow of perpetual virginity—unheard of among her people. Fleeing tribal hostility, she walked two hundred miles to Kahnawake near Montreal, where she spent her final years in prayer, penance, and caring for elderly sick villagers.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Kateri died at Kahnawake on Holy Wednesday, April 17, 1680 at twenty-four; celebrated on July 14 in the United States.",
+    "image": {
+      "url": "/icons/saint-07-14.jpg",
+      "title": "Saint Kateri Tekakwitha Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kateri_Tekakwitha"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-15",
+    "month": 7,
+    "day": 15,
+    "date": "July 15",
+    "name": "Saint Edith of Polesworth",
+    "title": "Saint Edith of Polesworth, Anglo-Saxon Queen and Abbess",
+    "tradition": "Shared",
+    "curatedBio": "Edith was the daughter of King Edward the Elder and sister of King Æthelstan of England. In 925 she married the Viking ruler King Sihtric Cáech of York, who agreed to receive Christian baptism. Following Sihtric's early death in 927, Edith returned to the Midlands, taking the veil and founding the Benedictine nunnery of Polesworth Abbey in Warwickshire. She lived thirty years of exemplary prayer, study of scripture, and generous distribution of royal revenues to poor Mercian peasants.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Edith reposed peacefully at Polesworth Abbey around 960; her shrine in Warwickshire was a major pilgrimage site.",
+    "image": {
+      "url": "/icons/saint-07-15.jpg",
+      "title": "Saint Edith of Polesworth Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Edith_of_Polesworth"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-16",
+    "month": 7,
+    "day": 16,
+    "date": "July 16",
+    "name": "Saint Marie-Madeleine Postel",
+    "title": "Saint Marie-Madeleine Postel, Foundress of the Sisters of Christian Schools of Mercy",
+    "tradition": "Catholic",
+    "curatedBio": "Julie Postel was born in Barfleur, Normandy in 1756. During the violent anti-clerical persecutions of the French Revolution, she boldly sheltered non-juring priests in her home, kept the Blessed Sacrament concealed in a wardrobe, and conducted secret clandestine prayer services for Catholic villagers. In 1807, at age fifty-one, she founded the Sisters of the Christian Schools of Mercy, rebuilding the ruined Benedictine Abbey of Saint-Sauveur-le-Vicomte with her own hands and opening free schools for girls.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Marie-Madeleine died peacefully at Saint-Sauveur-le-Vicomte on July 16, 1846 at eighty-nine years of age.",
+    "image": {
+      "url": "/icons/saint-07-16.jpg",
+      "title": "Saint Marie-Madeleine Postel Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marie-Madeleine_Postel"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/12318a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-17",
+    "month": 7,
+    "day": 17,
+    "date": "July 17",
+    "name": "Saint Marina of Antioch",
+    "title": "Holy Great Martyr Marina (Margaret) of Antioch",
+    "tradition": "Shared",
+    "curatedBio": "Marina was born in Pisidian Antioch, the daughter of a pagan priest named Aedesius. Taught the Christian faith by her Christian foster mother, Marina consecrated her virginity to Jesus Christ at age fifteen. Roman governor Olybrius was enchanted by her beauty and sought to marry her, but Marina declared: \"I am a servant of Jesus Christ.\" Thrown into a dungeon, she saw a terrifying dragon symbolizing Satan, which she trampled underfoot with the sign of the cross.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation",
+    "deathSummary": "After surviving torture by fire and water, Saint Marina was beheaded at Antioch around 304 under Diocletian.",
+    "image": {
+      "url": "/icons/saint-07-17.jpg",
+      "title": "Saint Marina of Antioch Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marina_the_Monk"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/07/17/102042-great-martyr-marina-margaret-of-antioch-in-pisidia"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-18",
+    "month": 7,
+    "day": 18,
+    "date": "July 18",
+    "name": "Saint Elizabeth the New Martyr",
+    "title": "Holy New Martyr Grand Duchess Elizabeth Feodorovna of Russia",
+    "tradition": "Eastern Orthodox",
+    "curatedBio": "Princess Elisabeth of Hesse and by Rhine was the granddaughter of Queen Victoria and married Grand Duke Sergei Alexandrovich of Russia, converting to Orthodoxy. Following her husband's assassination in 1905, Elizabeth visited his murderer in prison to forgive him. Selling her royal jewelry, she founded the Martha and Mary Convent of Mercy in Moscow, serving as abbess and nursing Moscow’s poorest sick citizens. Arrested by the Bolsheviks in 1918, she was transported to Alapayevsk in the Urals.",
+    "isMartyr": true,
+    "mannerOfDeath": "Thrown alive into an iron mine shaft with grenades",
+    "deathSummary": "Thrown into a pit on July 18, 1918, Saint Elizabeth bandaged the wounds of dying companions and sang the Cherubic Hymn until her death.",
+    "image": {
+      "url": "/icons/saint-07-18.jpg",
+      "title": "Saint Elizabeth the New Martyr Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Princess_Elisabeth_of_Hesse_and_by_Rhine_(1864%E2%80%931918)"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/07/18/102047-holy-new-martyr-grand-duchess-elizabeth"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-19",
+    "month": 7,
+    "day": 19,
+    "date": "July 19",
+    "name": "Saint Macrina the Younger",
+    "title": "Saint Macrina the Younger, Spiritual Matriarch of the Cappadocian Fathers",
+    "tradition": "Shared",
+    "curatedBio": "Macrina was born in Caesarea in Cappadocia in 327, the eldest daughter of Saint Basil the Elder and Saint Emilia. Renouncing marriage after her fiancé died, she turned the family estate at Annesi on the Iris River into a coenobitic monastic community where aristocrats and former slaves lived in absolute equality. Macrina spiritually guided her younger brothers Basil the Great, Gregory of Nyssa, and Peter of Sebaste. Gregory recorded her sublime deathbed dialogue on the soul in his treatise De Anima.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Macrina reposed peacefully in her monastery at Annesi on July 19, 379; her brother Gregory buried her beside her holy parents.",
+    "image": {
+      "url": "/icons/saint-07-19.jpg",
+      "title": "Saint Macrina the Younger Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Macrina_the_Younger"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/07/19/102050-venerable-macrina-sister-of-st-basil-the-great"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/09508a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-20",
+    "month": 7,
+    "day": 20,
+    "date": "July 20",
+    "name": "Saint Margaret of Antioch",
+    "title": "Saint Margaret the Virgin, Patroness of Expectant Mothers",
+    "tradition": "Catholic",
+    "curatedBio": "Margaret was a Christian maiden of Antioch who refused the marriage suit of Roman prefect Olybrius during the Diocletian persecutions. Thrown into a dungeon, she triumphed over demonic visions and was scourged and branded with torches. Popular devotion throughout medieval Europe revered her as one of the Fourteen Holy Helpers and one of the heavenly voices that spoke to Saint Joan of Arc, invoking her intercession especially for women during childbirth.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation",
+    "deathSummary": "Saint Margaret was beheaded at Antioch around 304; her feast has been kept on July 20 across Western Europe for a millennium.",
+    "image": {
+      "url": "/icons/saint-07-20.jpg",
+      "title": "Saint Margaret of Antioch Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Margaret_the_Virgin"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/09652b.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-21",
+    "month": 7,
+    "day": 21,
+    "date": "July 21",
+    "name": "Saint Praxedes of Rome",
+    "title": "Saint Praxedes of Rome, Holy Virgin and Shelterer of Martyrs",
+    "tradition": "Shared",
+    "curatedBio": "Praxedes was a noble Roman Christian virgin of the first and second centuries, the daughter of Saint Pudens and sister of Saint Pudentiana. Following her father's martyrdom, Praxedes and her sister distributed their ancestral patrimony to the poor and converted their family palace into an underground church. Praxedes spent her days sheltering hunted Christians from imperial guards, visiting those imprisoned in the Mamertine Prison, and collecting the blood of decapitated martyrs with sponges to bury with honor.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Praxedes reposed peacefully in Rome around 165; her titular basilica of Santa Prassede preserves early Christian mosaics.",
+    "image": {
+      "url": "/icons/saint-07-21.jpg",
+      "title": "Saint Praxedes of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Praxedes"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/12344b.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-22",
+    "month": 7,
+    "day": 22,
+    "date": "July 22",
+    "name": "Saint Mary Magdalene",
+    "title": "Saint Mary Magdalene, Equal-to-the-Apostles, Apostola Apostolorum",
+    "tradition": "Shared",
+    "curatedBio": "Mary of Magdala was delivered by Jesus Christ from seven demons, becoming His most faithful follower throughout His public ministry. Supporting Christ out of her resources, Mary stood beside the Mother of God at the foot of the Cross during the Crucifixion and wept outside the empty tomb on Easter morning. Risen Christ appeared to her first, commanding her: \"Go to my brethren and say to them, I ascend unto my Father.\" For this, Saint Thomas Aquinas named her the Apostle to the Apostles.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "According to Eastern tradition, Saint Mary Magdalene accompanied Saint John to Ephesus where she reposed peacefully around 68.",
+    "image": {
+      "url": "/icons/saint-07-22.jpg",
+      "title": "Saint Mary Magdalene Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mary_Magdalene"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/07/22/102070-holy-myrrhbearer-and-equal-of-the-apostles-mary-magdalene"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/09761a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-23",
+    "month": 7,
+    "day": 23,
+    "date": "July 23",
+    "name": "Saint Bridget of Sweden",
+    "title": "Saint Bridget of Sweden, Foundress of the Brigittines and Patroness of Europe",
+    "tradition": "Catholic",
+    "curatedBio": "Birgitta Birgersdotter was born in Finsta, Sweden in 1303 into high nobility. Married to Ulf Gudmarsson and mother of eight children, including Saint Catherine of Sweden, after her husband’s death she embraced austere poverty. In 1344 she founded the Order of the Most Holy Savior (the Brigittines) at Vadstena Abbey. Gifted with extraordinary mystical revelations of the Passion of Christ and the Nativity, she lived in Rome from 1350, fearlessly rebuking papal corruption and urging the Avignon papacy to return to Rome.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Bridget died in Rome on July 23, 1373 at seventy years of age; her relics were brought to Vadstena Abbey.",
+    "image": {
+      "url": "/icons/saint-07-23.jpg",
+      "title": "Saint Bridget of Sweden Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bridget_of_Sweden"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/02780a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-24",
+    "month": 7,
+    "day": 24,
+    "date": "July 24",
+    "name": "Saint Christina the Astonishing",
+    "title": "Saint Christina the Astonishing, Mystic of Sint-Truiden",
+    "tradition": "Catholic",
+    "curatedBio": "Christina was born in Brustem, Belgium in 1150 and orphaned at age fifteen. At age twenty-one, she suffered a massive seizure and was pronounced dead. During her funeral Mass in the church of Sint-Truiden, Christina suddenly sat up on her bier and levitated to the church rafters. She related that she had witnessed heaven, hell, and purgatory, and was offered the choice to enter heaven or return to earth to suffer penance for the salvation of souls and the relief of purgatory.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Christina died peacefully in the convent of Saint Catherine in Sint-Truiden on July 24, 1224 at seventy-four years of age.",
+    "image": {
+      "url": "/icons/saint-07-24.jpg",
+      "title": "Saint Christina the Astonishing Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Christina_the_Astonishing"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/03717a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-25",
+    "month": 7,
+    "day": 25,
+    "date": "July 25",
+    "name": "Saint Olympias the Deaconess",
+    "title": "Holy Righteous Olympias the Deaconess of Constantinople",
+    "tradition": "Shared",
+    "curatedBio": "Olympias was born in Constantinople around 368 into the imperial nobility, the orphaned heiress of immense ancestral fortunes. Widowed at nineteen after twenty months of marriage to the prefect Nebridius, she refused marriage to Emperor Theodosius I’s kinsman, consecrating her wealth and life to Christ. Ordained deaconess by Patriarch Nektarios, she built a monastery next to Hagia Sophia, feeding hundreds of poor daily and serving as the steadfast defender of Saint John Chrysostom during his exile.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes in exile",
+    "deathSummary": "Saint Olympias reposed peacefully in exile in Nicomedia around 408 at forty years of age; her relics were brought to Constantinople.",
+    "image": {
+      "url": "/icons/saint-07-25.jpg",
+      "title": "Saint Olympias the Deaconess Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Olympias_the_Deaconess"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/07/25/102089-holy-righteous-olympiada-the-deaconess"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-26",
+    "month": 7,
+    "day": 26,
+    "date": "July 26",
+    "name": "Saint Anne",
+    "title": "Righteous Saint Anne, Mother of the Blessed Virgin Mary",
+    "tradition": "Shared",
+    "curatedBio": "Anne was of the royal tribe of David, the daughter of Matthan the priest and wife of Righteous Joachim of Nazareth. Enduring fifty years of childlessness and the bitter reproaches of her contemporaries in Israel, Anne poured out her grief in her garden beneath a laurel tree, weeping before God. An angel of the Lord appeared, announcing that she would conceive a daughter who would be blessed across all generations. Anne gave birth to Mary, dedicating her at three years old to the Temple.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Righteous Saint Anne reposed peacefully in Jerusalem at the age of seventy-nine, having fulfilled her divine role in salvation history.",
+    "image": {
+      "url": "/icons/saint-07-26.jpg",
+      "title": "Saint Anne Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saint_Anne"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/07/25/102088-dormition-of-the-righteous-anna-the-mother-of-the-most-holy-theot"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/01538a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-27",
+    "month": 7,
+    "day": 27,
+    "date": "July 27",
+    "name": "Saint Anthusa of Mantinea",
+    "title": "Venerable Mother Anthusa of Mantinea, Abbess and Confessor",
+    "tradition": "Eastern Orthodox",
+    "curatedBio": "Anthusa was an eighth-century Byzantine ascetic who withdrew from worldly society to a desolate mountain near Lake Mantinea in Paphlagonia. Founding a double monastery where she governed ninety sisters with austere prayer, during the iconoclast persecution under Emperor Constantine V Copronymus she was dragged before imperial inquisitors for venerating holy icons. Miraculously predicting that the Emperor’s wife would safely give birth to twins (future Emperor Leo IV and Anthusa), the grateful empress spared her life.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Anthusa reposed peacefully in her monastery at Mantinea around 759 at seventy-five years of age.",
+    "image": {
+      "url": "/icons/saint-07-27.jpg",
+      "title": "Saint Anthusa of Mantinea Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anthusa_of_Mantinea"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/07/27/102106-venerable-anthousa-the-confessor-of-mantinea"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-28",
+    "month": 7,
+    "day": 28,
+    "date": "July 28",
+    "name": "Saint Alphonsa of India",
+    "title": "Saint Alphonsa of the Immaculate Conception, First Indian Woman Saint",
+    "tradition": "Catholic",
+    "curatedBio": "Anna Muttathupadathu was born in Kudamaloor, Kerala, India in 1910 into the Syro-Malabar Catholic Church. Orphaned in infancy, she deliberately burned her feet in an ash pit at age thirteen to prevent an arranged marriage so she could dedicate her life entirely to Jesus Christ. Entering the Franciscan Clarist Congregation at Bharananganam, she took the name Alphonsa. Confined to bed for decades by painful pneumonia, malaria, and ulcers, she united her suffering with Christ’s Passion with serene joy.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Alphonsa died peacefully in Bharananganam on July 28, 1946 at thirty-five; her tomb is Kerala’s foremost pilgrimage shrine.",
+    "image": {
+      "url": "/icons/saint-07-28.jpg",
+      "title": "Saint Alphonsa of India Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alphonsa_of_the_Immaculate_Conception"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-29",
+    "month": 7,
+    "day": 29,
+    "date": "July 29",
+    "name": "Saint Martha of Bethany",
+    "title": "Righteous Saint Martha of Bethany, Sister of Lazarus and Mary",
+    "tradition": "Shared",
+    "curatedBio": "Martha was the hospitable sister of Lazarus and Mary living in Bethany near Jerusalem. Frequently welcoming Jesus Christ into her home, when Lazarus died she ran to meet the Savior, uttering her momentous confession of faith: \"Yes, Lord: I have believed that thou art the Christ, the Son of God, who should come into the world.\" Present when Christ raised Lazarus from the four-day tomb, according to Western tradition Martha traveled to Gaul, taming the mythical Tarasque monster through prayer.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Martha reposed peacefully at Tarascon in Provence around 84; her tomb is in the Collegiate Church of Sainte-Marthe.",
+    "image": {
+      "url": "/icons/saint-07-29.jpg",
+      "title": "Saint Martha of Bethany Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Martha"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/06/04/101614-righteous-martha-the-sister-of-lazarus"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/09725b.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-30",
+    "month": 7,
+    "day": 30,
+    "date": "July 30",
+    "name": "Saint Julitta of Caesarea",
+    "title": "Holy Martyr Julitta of Caesarea in Cappadocia",
+    "tradition": "Shared",
+    "curatedBio": "Julitta was a wealthy Christian noblewoman living in Caesarea in Cappadocia during the reign of Emperor Diocletian. When a corrupt pagan magistrate seized her ancestral lands, Julitta brought a lawsuit in court. The magistrate stated that Christians had no civil rights under the imperial edicts unless they sacrificed to the Roman gods. Offered the return of her properties if she apostatized, Julitta boldly replied: \"Perish life, and perish riches, rather than that I should deny my Lord Jesus Christ!\"",
+    "isMartyr": true,
+    "mannerOfDeath": "Burned in a fire",
+    "deathSummary": "Saint Julitta was thrown into a bonfire in Caesarea around 303; praised by Saint Basil the Great in a panegyric.",
+    "image": {
+      "url": "/icons/saint-07-30.jpg",
+      "title": "Saint Julitta of Caesarea Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Julitta_of_Caesarea"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/07/31/102146-martyr-julitta-at-caesarea"
+      }
+    ]
+  },
+  {
+    "id": "saint-07-31",
+    "month": 7,
+    "day": 31,
+    "date": "July 31",
+    "name": "Saint Helena of Skövde",
+    "title": "Saint Helena of Skövde, Noble Matron and Martyr of Sweden",
+    "tradition": "Catholic",
+    "curatedBio": "Elin was born around 1101 into the Swedish aristocracy of Västergötland. Following her husband's early death, she gave her wealth to the poor, built the church of Skövde, and traveled on pilgrimage to Rome and Jerusalem. Upon her return, when her abusive son-in-law was murdered by his own mistreated servants, his vengeful family falsely blamed Helena and assassinated her while she was walking to the consecration of a church at Götene. Miraculous springs burst from the site of her death.",
+    "isMartyr": true,
+    "mannerOfDeath": "Murdered by sword on pilgrimage",
+    "deathSummary": "Saint Helena was assassinated near Götene on July 31, 1160; she became Sweden’s foremost female patron saint.",
+    "image": {
+      "url": "/icons/saint-07-31.jpg",
+      "title": "Saint Helena of Skövde Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Helena_of_Sk%C3%B6vde"
+      }
+    ]
+  }
+]

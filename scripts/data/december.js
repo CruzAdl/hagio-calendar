@@ -1,0 +1,948 @@
+/**
+ * DECEMBER (31 Days) - Female Saints
+ */
+export const decemberSaints = [
+  {
+    "id": "saint-12-01",
+    "month": 12,
+    "day": 1,
+    "date": "December 1",
+    "name": "Saint Florence of Poitiers",
+    "title": "Saint Florence of Poitiers, Consecrated Virgin of Gaul",
+    "tradition": "Shared",
+    "curatedBio": "Florence was a young pagan Gallo-Roman maiden converted to Christ through the preaching of Saint Hilary, Bishop of Poitiers, during his return through Phrygia from imperial exile in 360. Following Hilary back to Poitiers in Gaul, she received the veil of consecrated virginity from his hands. Florence settled in solitary seclusion near Comblé, spending her days in contemplative prayer, weaving linens, and assisting the local poor until her peaceful repose in Christ.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Florence reposed peacefully in Comblé near Poitiers around 366; buried by Saint Hilary.",
+    "image": {
+      "url": "/icons/saint-12-01.jpg",
+      "title": "Saint Florence of Poitiers Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/07349b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Florence_of_Poitiers"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-02",
+    "month": 12,
+    "day": 2,
+    "date": "December 2",
+    "name": "Saint Bibiana of Rome",
+    "title": "Holy Virgin Martyr Bibiana (Vivian) of Rome",
+    "tradition": "Shared",
+    "curatedBio": "Bibiana was born into a patrician Christian family in Rome during the reign of Emperor Julian the Apostate around 363. Her father Flavian, an ex-prefect, and her mother Dafrosa were martyred for their faith. Stripped of all possessions, Bibiana and her sister Demetria were subjected to poverty and threats by the pagan governor Apronianus. When Demetria fell dead of grief, Apronianus entrusted Bibiana to a corrupt woman named Rufina to corrupt her virtue; when Bibiana refused with contempt, she was tied to a pillar and beaten to death with lead-tipped whips (plumbatae).",
+    "isMartyr": true,
+    "mannerOfDeath": "Scourged to death with leaded thongs",
+    "deathSummary": "Saint Bibiana was martyred in Rome in 363; Gian Lorenzo Bernini sculpted her iconic marble statue for the Church of Santa Bibiana.",
+    "image": {
+      "url": "/icons/saint-12-02.jpg",
+      "title": "Saint Bibiana of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/02542b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saint_Bibiana"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-03",
+    "month": 12,
+    "day": 3,
+    "date": "December 3",
+    "name": "Saint Attalia of Strasbourg",
+    "title": "Saint Attalia of Strasbourg, Abbess of Saint Stephen",
+    "tradition": "Shared",
+    "curatedBio": "Attalia was an Alsatian noblewoman, niece to Saint Odilia (Ottilia). Educated at Hohenburg Abbey on Mont Sainte-Odile, Attalia embraced the monastic life in early youth. When Duke Adalbert founded the Abbey of Saint Stephen in Strasbourg around 718, Attalia was appointed its founding abbess. She governed her community with extraordinary meekness, constant prayer, and tireless care for the destitute, guiding generations of noble women into evangelical poverty until her holy death.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Attalia reposed peacefully in Strasbourg on December 3, 741; her relics are preserved in Saint Stephen's Church.",
+    "image": {
+      "url": "/icons/saint-12-03.jpg",
+      "title": "Saint Attalia of Strasbourg Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/02060b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Attalia_of_Strasbourg"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-04",
+    "month": 12,
+    "day": 4,
+    "date": "December 4",
+    "name": "Saint Barbara of Heliopolis",
+    "title": "Holy Great Martyr Barbara of Heliopolis",
+    "tradition": "Shared",
+    "curatedBio": "Barbara was the beautiful daughter of Dioscorus, a wealthy pagan nobleman in Heliopolis (or Nicomedia) who locked her in a high tower to shield her from suitors. Contemplating the created cosmos, Barbara came to faith in the one true God and was baptized secretly by a Christian priest disguised as a physician. When she ordered workmen to pierce three windows in her bathhouse to symbolize the Holy Trinity, her father discovered her faith. Enraged, Dioscorus dragged her before the magistrate Marcian and personally beheaded her upon a mountain, whereupon he was immediately struck down by lightning.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation by her own father",
+    "deathSummary": "Saint Barbara was beheaded around 306 under Emperor Maximian; invoked universally as patroness against sudden death and lightning.",
+    "image": {
+      "url": "/icons/saint-12-04.jpg",
+      "title": "Saint Barbara of Heliopolis Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/12/04/103473-great-martyr-barbara-at-heliopolis-in-syria"
+      },
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/02284d.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saint_Barbara"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-05",
+    "month": 12,
+    "day": 5,
+    "date": "December 5",
+    "name": "Saint Crispina of Thagaste",
+    "title": "Holy Martyr Crispina of Thagaste",
+    "tradition": "Shared",
+    "curatedBio": "Crispina was a wealthy, educated Christian noblewoman and mother of several children residing in Thagaste, Numidia (modern Algeria). During the Diocletian persecution in 304, she was brought before the Roman proconsul Anulinus in Theveste. Ordered to burn incense to the imperial Roman gods, Crispina replied with majestic calm: 'I have never sacrificed and I never will, save to the one true God and our Lord Jesus Christ.' Neither threats of public humiliation nor the sight of the torture instruments could shake her resolves; Anulinus condemned her to beheading.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation",
+    "deathSummary": "Saint Crispina was beheaded in Theveste on December 5, 304; praised repeatedly in the sermons of Saint Augustine.",
+    "image": {
+      "url": "/icons/saint-12-05.jpg",
+      "title": "Saint Crispina of Thagaste Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/04490c.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Crispina"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-06",
+    "month": 12,
+    "day": 6,
+    "date": "December 6",
+    "name": "Saint Asella of Rome",
+    "title": "Saint Asella of Rome, Consecrated Virgin and Anchoress",
+    "tradition": "Shared",
+    "curatedBio": "Asella was an aristocratic Roman Christian virgin who consecrated herself to God at age twelve, trading her silk robes for coarse sackcloth. Enclosing herself in a tiny solitary cell on the Aventine Hill, she spent over sixty years in unceasing prayer, psalmody, and fasting on bread, water, and salt. Praised by Saint Jerome in his letters as a 'flower of the Lord' whose knees had grown callous like a camel's skin from continuous kneeling, Asella lived in angelic purity, serving as a beacon of holiness across fourth-century Rome.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Asella reposed peacefully in Rome around 406 at the age of seventy-four; eulogized by Saint Jerome.",
+    "image": {
+      "url": "/icons/saint-12-06.jpg",
+      "title": "Saint Asella of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/01792b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Asella"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-07",
+    "month": 12,
+    "day": 7,
+    "date": "December 7",
+    "name": "Saint Fara of Faremoutiers",
+    "title": "Saint Fara (Burgundofara), Foundress and Abbess of Faremoutiers",
+    "tradition": "Shared",
+    "curatedBio": "Burgundofara was a noble Frankish maiden, daughter of Count Chagneric of Meaux. Blessed in childhood by the great Celtic missionary monk Saint Columban, she resolved to consecrate her virginity to God. When her father attempted to force her into an arranged marriage, she fell into a mortal fever, regaining health only when her father relented. With the support of Saint Eustace of Luxeuil, Fara founded the celebrated double monastery of Faremoutiers (Evoriacum) around 620, governing it for forty years under the combined Columbanian and Benedictine rules.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Fara reposed peacefully at Faremoutiers Abbey on April 3, 657; celebrated in ancient martyrologies on December 7.",
+    "image": {
+      "url": "/icons/saint-12-07.jpg",
+      "title": "Saint Fara of Faremoutiers Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/05780a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Burgundofara"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-08",
+    "month": 12,
+    "day": 8,
+    "date": "December 8",
+    "name": "The Immaculate Conception",
+    "title": "Solemnity of the Immaculate Conception of the Blessed Virgin Mary",
+    "tradition": "Shared",
+    "curatedBio": "The Solemnity of the Immaculate Conception commemorates the singular grace by which the Blessed Virgin Mary was preserved free from all stain of original sin from the first instant of her conception in the womb of Saint Anna. Ordained by God to become the pure, unstained living Ark of the New Covenant and Mother of the Incarnate Word, she was redeemed in an eminent manner in anticipation of the merits of Jesus Christ. Solemnly defined as dogma by Pope Pius IX in the bull Ineffabilis Deus (1854), this feast is honored across East and West.",
+    "isMartyr": false,
+    "mannerOfDeath": "Not applicable (Marian Solemnity)",
+    "deathSummary": "Liturgical celebration of the singular preservation of the Mother of God from original sin; celebrated universally on December 8.",
+    "image": {
+      "url": "/icons/saint-12-08.jpg",
+      "title": "The Immaculate Conception Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/07674d.htm"
+      },
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/12/09/103504-the-conception-by-righteous-anna-of-the-most-holy-mother-of-god"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Immaculate_Conception"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-09",
+    "month": 12,
+    "day": 9,
+    "date": "December 9",
+    "name": "Saint Leocadia of Toledo",
+    "title": "Holy Virgin Martyr Leocadia of Toledo, Patroness of Toledo",
+    "tradition": "Shared",
+    "curatedBio": "Leocadia was a noble Spanish Christian maiden of Toledo during the fierce persecutions under Roman governor Dacian around 304. Inspired by the martyrdom of Saint Eulalia, Leocadia publicly denounced the imperial persecutions and confessed Christ as King of Kings. Dacian had her seized, scourged with iron rods, and thrown into a subterranean dungeon in Toledo. Hearing of the gruesome martyrdom of Eulalia in Mérida, Leocadia wept with desire to share her crown, praying fervently in her cell until she peacefully yielded her pure spirit to God.",
+    "isMartyr": true,
+    "mannerOfDeath": "Exhaustion and wounds in prison dungeon",
+    "deathSummary": "Saint Leocadia died of her wounds in the prison dungeon of Toledo around 304 under Dacian; three basilicas were erected in her honor.",
+    "image": {
+      "url": "/icons/saint-12-09.jpg",
+      "title": "Saint Leocadia of Toledo Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/09170a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Leocadia"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-10",
+    "month": 12,
+    "day": 10,
+    "date": "December 10",
+    "name": "Saint Eulalia of Mérida",
+    "title": "Holy Virgin Martyr Eulalia of Mérida, Protomartyr of Spain",
+    "tradition": "Shared",
+    "curatedBio": "Eulalia was a twelve-year-old Christian maiden of Mérida in Lusitania (Spain) during the Diocletian persecution. When her mother took her to the countryside to protect her from arrest, Eulalia escaped at night, walked miles to Mérida, and presented herself boldly before governor Dacian, rebuking the cruelty of pagan persecution and confessing Christ. Dacian had her flesh torn with iron hooks and burning torches applied to her wounds. When her hair caught flame, she inhaled the fire to hasten her union with Christ; a white dove was seen soaring from her mouth into the skies.",
+    "isMartyr": true,
+    "mannerOfDeath": "Suffocation and burned with torches",
+    "deathSummary": "Saint Eulalia was martyred in Mérida on December 10, 304; celebrated by the Roman poet Prudentius in his Peristephanon.",
+    "image": {
+      "url": "/icons/saint-12-10.jpg",
+      "title": "Saint Eulalia of Mérida Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/05603a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eulalia_of_M%C3%A9rida"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-11",
+    "month": 12,
+    "day": 11,
+    "date": "December 11",
+    "name": "Saint Maria Maravillas of Jesus",
+    "title": "Saint Maria Maravillas of Jesus, Discalced Carmelite Mystic",
+    "tradition": "Catholic",
+    "curatedBio": "María de las Maravillas Pidal y Chico de Guzmán was born in Madrid, daughter of the Spanish ambassador to the Holy See. Entering the Discalced Carmelite Carmel of El Escorial in 1919, she was guided to found a new convent at the Cerro de los Ángeles, the geographic center of Spain, adjacent to the Monument to the Sacred Heart. During the violent religious persecutions of the Spanish Civil War, Mother Maravillas guided her community through arrest and house confinement with profound courage, subsequently founding nine reformed Carmels across Spain and India.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Maria Maravillas of Jesus reposed peacefully in La Aldehuela on December 11, 1974; canonized by Pope John Paul II in 2003.",
+    "image": {
+      "url": "/icons/saint-12-11.jpg",
+      "title": "Saint Maria Maravillas of Jesus Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Vatican News Biography",
+        "url": "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20030504_de-jesus_en.html"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maravillas_de_Jes%C3%BAs"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-12",
+    "month": 12,
+    "day": 12,
+    "date": "December 12",
+    "name": "Saint Odilia of Alsace",
+    "title": "Saint Odilia (Ottilia) of Alsace, Patroness of the Blind",
+    "tradition": "Shared",
+    "curatedBio": "Odilia was born blind to Eticho, Duke of Alsace, who ordered her drowned in shame; her pious mother saved her by placing her in a monastery in Burgundy. When baptized at age twelve by Saint Erhard of Regensburg, Odilia miraculously received her sight the moment the holy chrism touched her eyes. Returning to Alsace, her father was reconciled through the intercession of her brother and granted her the Hohenburg Castle on Mont Sainte-Odile, which Odilia transformed into a flourishing nunnery and hospice for lepers and the blind.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Odilia reposed peacefully at Hohenburg Abbey around 720; proclaimed the patron saint of Alsace by Pope Pius XII in 1946.",
+    "image": {
+      "url": "/icons/saint-12-12.jpg",
+      "title": "Saint Odilia of Alsace Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/11207b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Odile_of_Alsace"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-13",
+    "month": 12,
+    "day": 13,
+    "date": "December 13",
+    "name": "Saint Lucy of Syracuse",
+    "title": "Holy Virgin Martyr Lucy (Lucia) of Syracuse, Bringer of Light",
+    "tradition": "Shared",
+    "curatedBio": "Lucy was a noble Christian maiden of Syracuse in Sicily. After journeying to Catania to pray at the tomb of Saint Agatha for the miraculous healing of her mother Eutychia, Lucy received a vision of Agatha promising her cure. In thanksgiving, Lucy distributed her vast dowry to the poor, provoking her spurned pagan suitor to denounce her to governor Paschasius during the Diocletian persecution. Condemned to be dragged to a brothel, the Holy Spirit made her body immovable; neither teams of oxen nor boiling pitch could harm her. She was finally run through the throat with a sword.",
+    "isMartyr": true,
+    "mannerOfDeath": "Pierced through the neck with a sword",
+    "deathSummary": "Saint Lucy was martyred in Syracuse on December 13, 304; commemorated universally as the patroness of sight and light.",
+    "image": {
+      "url": "/icons/saint-12-13.jpg",
+      "title": "Saint Lucy of Syracuse Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/09414a.htm"
+      },
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/12/13/103534-virgin-martyr-lucy-of-syracuse"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saint_Lucy"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-14",
+    "month": 12,
+    "day": 14,
+    "date": "December 14",
+    "name": "Saint Drosida of Antioch",
+    "title": "Holy Virgin Martyr Drosida of Antioch and the Five Nuns",
+    "tradition": "Shared",
+    "curatedBio": "Drosida was the daughter of Emperor Trajan who secretly embraced Christianity in Antioch. Observing how five holy Christian nuns secretly gathered the remains of martyred believers to give them dignified burials, Drosida joined them in their charitable work. When the nuns were discovered, Emperor Trajan ordered them thrown into a blazing furnace of molten copper. Drosida was placed under house arrest, but escaped during the night, rushed to the furnace, baptized herself in the dew of a fountain in the name of the Trinity, and stepped into the flames.",
+    "isMartyr": true,
+    "mannerOfDeath": "Burned in furnace of molten copper",
+    "deathSummary": "Saint Drosida was martyred in Antioch around 104 under Emperor Trajan.",
+    "image": {
+      "url": "/icons/saint-12-14.jpg",
+      "title": "Saint Drosida of Antioch Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/03/22/100868-holy-virgin-martyr-drosida-and-the-five-nuns-with-her"
+      },
+      {
+        "label": "CatholicSaints.info",
+        "url": "https://catholicsaints.info/saint-drosida-of-antioch/"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-15",
+    "month": 12,
+    "day": 15,
+    "date": "December 15",
+    "name": "Saint Nino of Georgia",
+    "title": "Holy Equal to the Apostles Nino, Enlightener of Georgia",
+    "tradition": "Shared",
+    "curatedBio": "Nino was a Cappadocian maiden, niece to Patriarch Juvenal of Jerusalem. Favored with a vision of the Virgin Mary, who gave her a cross made of vine branches and commanded her to evangelize Iberia (Georgia), Nino bound the grapevine cross with strands of her own hair and set forth. Arriving in Mtskheta around 320, Nino lived in prayer and humility, miraculously curing Queen Nana of a mortal illness and delivering King Mirian III from blinding darkness during a royal hunt. In 327, Christianity was declared the state religion of Georgia.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Nino reposed peacefully in Bodbe, Kakheti, around 335; her Grapevine Cross is enshrined in Sioni Cathedral, Tbilisi.",
+    "image": {
+      "url": "/icons/saint-12-15.jpg",
+      "title": "Saint Nino of Georgia Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/01/14/100185-equal-of-the-apostles-nina-enlightener-of-georgia"
+      },
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/11078b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saint_Nino"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-16",
+    "month": 12,
+    "day": 16,
+    "date": "December 16",
+    "name": "Saint Adelaide of Italy",
+    "title": "Saint Adelaide of Italy, Holy Roman Empress and Peacemaker",
+    "tradition": "Catholic",
+    "curatedBio": "Adelaide was a Burgundian royal princess who married Lothair II, King of Italy. When Lothair was murdered by the usurper Berengar of Ivrea, Adelaide was imprisoned in a fortress on Lake Garda for refusing to marry Berengar's son. Rescued through an underground passage, she appealed to German King Otto the Great, who married her in 951 and was crowned Holy Roman Emperor in Rome with Adelaide as Empress. Renowned for diplomacy, founding monasteries, and boundless charity toward widows and orphans, she served as regent for her grandson Otto III.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Adelaide reposed peacefully at Seltz Abbey in Alsace on December 16, 999; canonized by Pope Urban II in 1097.",
+    "image": {
+      "url": "/icons/saint-12-16.jpg",
+      "title": "Saint Adelaide of Italy Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/01140b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adelaide_of_Italy"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-17",
+    "month": 12,
+    "day": 17,
+    "date": "December 17",
+    "name": "Saint Olympias the Deaconess",
+    "title": "Righteous Olympias the Deaconess of Constantinople",
+    "tradition": "Shared",
+    "curatedBio": "Olympias was born to a noble Byzantine aristocratic senator in Constantinople. Widowed in her youth after a brief marriage to the prefect Nebridius, she refused Emperor Theodosius the Great's arranged suitors, declaring her singular betrothal to Christ. Ordained a deaconess by Patriarch Nectarius, Olympias used her colossal wealth to build hospitals, orphanages, and the Church of Saint Irene, personally washing the feet of paupers. When Saint John Chrysostom became patriarch, she became his faithful disciple and benefactress; after Chrysostom was exiled, Olympias suffered persecution and exile for her loyalty.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes in exile",
+    "deathSummary": "Saint Olympias reposed peacefully in exile in Nicomedia on July 25, 408; commemorated on December 17.",
+    "image": {
+      "url": "/icons/saint-12-17.jpg",
+      "title": "Saint Olympias the Deaconess Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/07/25/102089-holy-deaconess-olympias-of-constantinople"
+      },
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/11248a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Olympias_the_Deaconess"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-18",
+    "month": 12,
+    "day": 18,
+    "date": "December 18",
+    "name": "Saint Begga of Andenne",
+    "title": "Saint Begga of Andenne, Matriarch and Abbess of Brabant",
+    "tradition": "Shared",
+    "curatedBio": "Begga was the daughter of Pippin of Landen, Mayor of the Palace of Austrasia, and Saint Itta of Nivelles, and elder sister to Saint Gertrude of Nivelles. Married to Ansegisel, son of Saint Arnulf of Metz, their son Pippin of Herstal became the progenitor of the Carolingian dynasty. Following her husband's murder in a hunting party, Begga journeyed on pilgrimage to Rome. Upon her return around 691, she founded the Abbey of Andenne on the Meuse River with seven chapels representing the seven basilicas of Rome, governing it as abbess.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Begga reposed peacefully at Andenne Abbey on December 17, 693; venerated as the patroness of the Beguines.",
+    "image": {
+      "url": "/icons/saint-12-18.jpg",
+      "title": "Saint Begga of Andenne Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/02376b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Begga"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-19",
+    "month": 12,
+    "day": 19,
+    "date": "December 19",
+    "name": "Saint Samthann of Clonbroney",
+    "title": "Saint Samthann of Clonbroney, Celtic Virgin and Abbess",
+    "tradition": "Shared",
+    "curatedBio": "Samthann was an early eighth-century Irish royal maiden raised at the royal court of the King of Connacht. Escaping an arranged marriage through a miraculous light descending upon her bedroom, she took monastic vows under Saint Cognat at Ernaide. Samthann later founded the celebrated monastery of Clonbroney (Cluain Brónaig) in County Longford. Renowned across Ireland for profound wisdom, extreme ascetic detachment, and spiritual humor, she once answered a pilgrim asking how to pray: 'God is near to all who call upon Him; there is no need to cross the sea to seek Him.'",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Samthann reposed peacefully at Clonbroney Abbey on December 19, 739; celebrated in the Martyrology of Tallaght.",
+    "image": {
+      "url": "/icons/saint-12-19.jpg",
+      "title": "Saint Samthann of Clonbroney Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "CatholicSaints.info",
+        "url": "https://catholicsaints.info/saint-samthann-of-clonbroney/"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Samthann"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-20",
+    "month": 12,
+    "day": 20,
+    "date": "December 20",
+    "name": "Saint Juliana of Nicomedia",
+    "title": "Holy Virgin Martyr Juliana of Nicomedia",
+    "tradition": "Shared",
+    "curatedBio": "Juliana was born into an aristocratic pagan family in Nicomedia during the reign of Emperor Maximian Galerius. Secretly baptized into the Christian faith, she refused to marry her betrothed, the Roman senator Eleusius, unless he embraced Christ or became the prefect of the city. When Eleusius was appointed prefect, Juliana steadfastly refused, declaring she would rather face death than marry an idolater. Eleusius subjected her to cruel floggings, hanging her by her hair, and casting her into a fiery furnace and boiling cauldron, both of which she survived unharmed before being beheaded.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation",
+    "deathSummary": "Saint Juliana was beheaded in Nicomedia around 304 under Maximian Galerius; celebrated in East and West.",
+    "image": {
+      "url": "/icons/saint-12-20.jpg",
+      "title": "Saint Juliana of Nicomedia Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/12/21/103606-holy-virgin-martyr-juliana-of-nicomedia"
+      },
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/08555b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Juliana_of_Nicomedia"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-21",
+    "month": 12,
+    "day": 21,
+    "date": "December 21",
+    "name": "Saint Michaela Desmaisières",
+    "title": "Saint Maria Michaela of the Blessed Sacrament, Foundress",
+    "tradition": "Catholic",
+    "curatedBio": "Micaela Desmaisières y López de Dicastillo was born into Spanish grandee nobility in Madrid, Viscountess of Jorbalán. Visiting the Hospital of San Juan de Dios in 1844, she was horrified by the exploitation and moral despair of impoverished young women driven into prostitution. Sacrificing her high aristocratic standing, wealth, and court prestige, Mother Michaela founded the Handmaids of the Blessed Sacrament and of Charity in 1856, opening rehabilitation centers to provide shelter, education, and vocational training while maintaining perpetual adoration of the Blessed Sacrament.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes (cholera contracted while nursing patients)",
+    "deathSummary": "Saint Michaela reposed peacefully in Valencia on August 24, 1865, while nursing victims of cholera; celebrated on December 21.",
+    "image": {
+      "url": "/icons/saint-12-21.jpg",
+      "title": "Saint Michaela Desmaisières Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/16058a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Micaela_Desmaisi%C3%A8res"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-22",
+    "month": 12,
+    "day": 22,
+    "date": "December 22",
+    "name": "Saint Anastasia of Sirmium",
+    "title": "Holy Great Martyr Anastasia the Deliverer from Potions (Pharmakolytria)",
+    "tradition": "Shared",
+    "curatedBio": "Anastasia was a noble Roman Christian maiden instructed in the faith by Saint Chrysogonus. Forced into marriage with a pagan patrician named Publius, she preserved her virginity under pretext of illness while disguising herself in beggar's rags to visit, bathe, and feed imprisoned Christians. Following her husband's death, she traveled throughout Illyricum and Rome ministering to martyrs. Arrested under Diocletian, she was starved for sixty days, cast adrift in a perforated boat that miraculously refused to sink, and finally tied to stakes in the shape of a cross and burned alive.",
+    "isMartyr": true,
+    "mannerOfDeath": "Burned alive staked in the form of a cross",
+    "deathSummary": "Saint Anastasia was martyred on the island of Palmaria around 304; commemorated in the Roman Canon and Eastern Menologion.",
+    "image": {
+      "url": "/icons/saint-12-22.jpg",
+      "title": "Saint Anastasia of Sirmium Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/12/22/103614-great-martyr-anastasia-the-deliverer-from-potions"
+      },
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/01453c.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anastasia_of_Sirmium"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-23",
+    "month": 12,
+    "day": 23,
+    "date": "December 23",
+    "name": "Saint Victoria of Rome",
+    "title": "Holy Virgin Martyr Victoria of Rome",
+    "tradition": "Shared",
+    "curatedBio": "Victoria was a patrician Roman Christian maiden betrothed to a pagan nobleman named Eugenius during the Decian persecution around 250. When her companion Saint Anatolia inspired her to preserve her virginity for Christ, Victoria broke off the engagement. Eugenius locked her on his country estate in Trebula Mutuesca (Monteleone Sabino), attempting to wear down her resolve. While imprisoned, Victoria miraculously banished a poisonous dragon terrorizing the local population, converting hundreds of pagans. When she still refused to sacrifice to Diana, Eugenius had an executioner pierce her heart with a sword.",
+    "isMartyr": true,
+    "mannerOfDeath": "Pierced through the heart with a sword",
+    "deathSummary": "Saint Victoria was martyred in Trebula Mutuesca around 250 under Emperor Decius; celebrated on December 23.",
+    "image": {
+      "url": "/icons/saint-12-23.jpg",
+      "title": "Saint Victoria of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/15413a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Victoria_(martyr)"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-24",
+    "month": 12,
+    "day": 24,
+    "date": "December 24",
+    "name": "Saint Eugenia of Rome",
+    "title": "Holy Virgin Martyr Eugenia of Rome and her Companions",
+    "tradition": "Shared",
+    "curatedBio": "Eugenia was the brilliant daughter of Philip, Roman prefect of Alexandria in Egypt. Educated in Greek and Latin rhetoric, she discovered the Epistles of Saint Paul, embraced faith in Christ, and disguised herself in male attire under the name Eugenius to enter a men's monastery with her servants Protus and Hyacinth. Later elected abbot for her exemplary sanctity, she was falsely accused of immorality and revealed her identity to her father, who converted to Christ. Returning to Rome, Eugenia was arrested under Emperor Valerian and martyred by the sword on Christmas Eve.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation on Christmas Eve",
+    "deathSummary": "Saint Eugenia was beheaded in Rome on December 24, 258 under Emperor Valerian; commemorated on Christmas Eve.",
+    "image": {
+      "url": "/icons/saint-12-24.jpg",
+      "title": "Saint Eugenia of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/12/24/103636-virgin-martyr-eugenia-of-rome"
+      },
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/05602b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eugenia_of_Rome"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-25",
+    "month": 12,
+    "day": 25,
+    "date": "December 25",
+    "name": "The Most Holy Theotokos",
+    "title": "The Virgin Mary, Mother of God, at the Nativity of Christ",
+    "tradition": "Shared",
+    "curatedBio": "On this glorious solemnity, the Church commemorates the Blessed Virgin Mary, who in Bethlehem gave birth without pain to Jesus Christ, the Son of the Living God and Savior of the World. Wrapped in swaddling clothes and laid in an earthen manger because there was no room for them in the inn, Christ was adored by the Virgin Mother, Righteous Joseph, the angels, shepherds, and the three Magi. Mary 'kept all these things, pondering them in her heart' (Luke 2:19), standing at the dawn of the Incarnation as the vessel through whom God became man.",
+    "isMartyr": false,
+    "mannerOfDeath": "Not applicable (Nativity of the Lord)",
+    "deathSummary": "Commemoration of Mary's divine maternity and virginal birth of Jesus Christ in Bethlehem; celebrated on December 25.",
+    "image": {
+      "url": "/icons/saint-12-25.jpg",
+      "title": "The Most Holy Theotokos Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/12/25/103640-the-nativity-of-our-lord-god-and-savior-jesus-christ"
+      },
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/03724b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nativity_of_Jesus"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-26",
+    "month": 12,
+    "day": 26,
+    "date": "December 26",
+    "name": "Saint Nicarete of Constantinople",
+    "title": "Saint Nicarete of Nicomedia and Constantinople",
+    "tradition": "Shared",
+    "curatedBio": "Nicarete was an aristocratic maiden of Nicomedia who lived in Constantinople during the episcopate of Saint John Chrysostom. Refusing imperial marriage offers to dedicate herself to Christ, she practiced perpetual virginity, profound silence, and medical ministry. Nicarete prepared botanical remedies with her own hands to heal the poor without charge. When Saint John Chrysostom was unjustly deposed and exiled, Nicarete defended him against imperial slander, enduring confiscation of her estate and exile rather than compromise truth.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Nicarete reposed peacefully in exile around 410; eulogized by the ecclesiastical historian Sozomen.",
+    "image": {
+      "url": "/icons/saint-12-26.jpg",
+      "title": "Saint Nicarete of Constantinople Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/11053a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nicarete"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-27",
+    "month": 12,
+    "day": 27,
+    "date": "December 27",
+    "name": "Saint Fabiola of Rome",
+    "title": "Saint Fabiola of Rome, Matron and Foundress of the First Public Hospital",
+    "tradition": "Shared",
+    "curatedBio": "Fabiola was a patrician Roman noblewoman of the Gens Fabia. Following a divorce from a violent husband and a subsequent civil remarriage, she was struck with deep compunction after her second husband's death. In 390, on Holy Saturday, Fabiola presented herself at the Basilica of Saint John Lateran in rough sackcloth, publicly doing penance before Pope Siricius. Liquidating her vast fortune, she established the first public hospital (nosocomium) in Western Europe in Rome, personally nursing destitute citizens covered in sores and leprosy, later traveling to Bethlehem to study with Saint Jerome.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Fabiola reposed peacefully in Rome in 399; all of Rome turned out for her funeral procession described by Saint Jerome.",
+    "image": {
+      "url": "/icons/saint-12-27.jpg",
+      "title": "Saint Fabiola of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/05743b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saint_Fabiola"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-28",
+    "month": 12,
+    "day": 28,
+    "date": "December 28",
+    "name": "Saint Theophila of Nicomedia",
+    "title": "Holy Virgin Martyr Theophila of Nicomedia",
+    "tradition": "Shared",
+    "curatedBio": "Theophila was a Christian maiden of Nicomedia during the great persecution under Emperor Diocletian around 303. On Christmas Day, Diocletian ordered the imperial basilica in Nicomedia surrounded by Roman legions and burned while twenty thousand Christians were worshiping inside. Theophila, who was outside the church, boldly proclaimed herself a Christian and ministered to the surviving wounded. Arrested and subjected to severe interrogations, she refused to offer incense to Zeus and was crowned with martyrdom by decapitation.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation",
+    "deathSummary": "Saint Theophila was beheaded in Nicomedia around 303; commemorated among the Twenty Thousand Martyrs of Nicomedia on December 28.",
+    "image": {
+      "url": "/icons/saint-12-28.jpg",
+      "title": "Saint Theophila of Nicomedia Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/12/28/103672-20000-martyrs-of-nicomedia"
+      },
+      {
+        "label": "CatholicSaints.info",
+        "url": "https://catholicsaints.info/saint-theophila-of-nicomedia/"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-29",
+    "month": 12,
+    "day": 29,
+    "date": "December 29",
+    "name": "Saint Marcellina of Milan",
+    "title": "Saint Marcellina of Milan, Consecrated Virgin and Sister of Saint Ambrose",
+    "tradition": "Shared",
+    "curatedBio": "Marcellina was the elder sister of Saint Ambrose of Milan and Saint Satyrus, born in Trier where their father was praetorian prefect of Gaul. Moving to Rome, she received the veil of consecrated virginity from Pope Liberius in Saint Peter's Basilica on Christmas Day in 353. Marcellina lived an angelic life of continuous prayer, fasting, and reading of Scripture in her family home. Saint Ambrose dedicated his monumental three-book treatise On Virgins (De Virginibus) to Marcellina, praising her as a holy mother of monastic wisdom.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Marcellina reposed peacefully in Milan around 397 shortly after the death of Saint Ambrose; buried in the Ambrosian Basilica.",
+    "image": {
+      "url": "/icons/saint-12-29.jpg",
+      "title": "Saint Marcellina of Milan Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/09637a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marcellina_(saint)"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-30",
+    "month": 12,
+    "day": 30,
+    "date": "December 30",
+    "name": "Saint Anysia of Salonica",
+    "title": "Holy Virgin Martyr Anysia of Salonica (Thessaloniki)",
+    "tradition": "Shared",
+    "curatedBio": "Anysia was born to wealthy Christian parents in Thessaloniki during the reign of Emperor Maximian Galerius. Orphaned in youth, she distributed her vast fortune to the impoverished, freeing all household servants and living in quiet prayer. While walking to church in 304, a pagan Roman soldier intercepted her and forcefully attempted to drag her to the temple of the sun to offer sacrifice. When Anysia resisted, made the sign of the cross, and declared, 'My Lord Jesus Christ forbid you!', the enraged soldier drew his sword and ran her through the abdomen.",
+    "isMartyr": true,
+    "mannerOfDeath": "Run through with a sword",
+    "deathSummary": "Saint Anysia was run through with a sword in Thessaloniki in 304 under Maximian Galerius.",
+    "image": {
+      "url": "/icons/saint-12-30.jpg",
+      "title": "Saint Anysia of Salonica Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/12/30/103688-virgin-martyr-anysia-at-thessalonica"
+      },
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/01549a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anysia_of_Solun"
+      }
+    ]
+  },
+  {
+    "id": "saint-12-31",
+    "month": 12,
+    "day": 31,
+    "date": "December 31",
+    "name": "Saint Melania the Younger",
+    "title": "Venerable Mother Melania the Younger of Rome and Jerusalem",
+    "tradition": "Shared",
+    "curatedBio": "Melania was born into the fabulously wealthy patrician Roman family of the Valerii. Forced at age fourteen into marriage with her cousin Pinian, they bore two children who died in infancy. With mutual consent, the couple took vows of chastity and dedicated their astronomical wealth to God. Melania freed eight thousand enslaved persons, endowed monasteries, and sold estates across Italy, Gaul, Spain, and North Africa to feed the poor. Fleeing the Visigothic sack of Rome, she settled on the Mount of Olives in Jerusalem, building two monastic cloisters and living in profound asceticism.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Melania the Younger reposed peacefully in Jerusalem on December 31, 439; her life was recorded by Saint Gerontius.",
+    "image": {
+      "url": "/icons/saint-12-31.jpg",
+      "title": "Saint Melania the Younger Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/12/31/103698-venerable-melania-the-younger-of-rome"
+      },
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/10156a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Melania_the_Younger"
+      }
+    ]
+  }
+];

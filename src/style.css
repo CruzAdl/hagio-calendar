@@ -1,0 +1,1368 @@
+/* ==========================================================================
+   THE HAGIOGRAPHY & ICONOGRAPHY CALENDAR OF FEMALE SAINTS
+   Byzantine Liturgical Theme & Strict 16:9 Landscape Layout
+   ========================================================================== */
+
+:root {
+  /* Byzantine Liturgical Palette */
+  --bg-deep-slate: #141418;
+  --bg-slate-dark: #0f0f13;
+  --bg-surface-1: #1a1a22;
+  --bg-surface-2: #21212b;
+  --bg-surface-3: #282836;
+  
+  --gold-primary: #D4AF37;
+  --gold-light: #F5D77F;
+  --gold-metallic: #ECC86B;
+  --gold-dark: #8A6D1C;
+  --gold-glow: rgba(212, 175, 55, 0.35);
+  --gold-border: rgba(212, 175, 55, 0.28);
+  --gold-border-bright: rgba(212, 175, 55, 0.7);
+
+  --crimson-martyr: #8B0000;
+  --crimson-light: #B71C1C;
+  --crimson-glow: rgba(183, 28, 28, 0.45);
+  --crimson-bg: rgba(139, 0, 0, 0.22);
+  --crimson-border: rgba(183, 28, 28, 0.55);
+
+  --ivory-text: #EDE6D6;
+  --ivory-muted: #B3ABA0;
+  --ivory-dim: #7E776E;
+
+  /* Typography */
+  --font-display: 'Cinzel Decorative', 'Cinzel', serif;
+  --font-serif: 'Cinzel', Georgia, serif;
+  --font-body: 'Cormorant Garamond', Garamond, serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Header Height */
+  --header-height: 56px;
+}
+
+/* Base Reset & Strict Viewport Constraint */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100vw;
+  height: 100vh;
+  max-width: 100vw;
+  max-height: 100vh;
+  overflow: hidden;
+  background-color: var(--bg-deep-slate);
+  color: var(--ivory-text);
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+}
+
+body.byzantine-theme {
+  background: radial-gradient(circle at 50% 20%, #1e1e28 0%, #141418 55%, #0c0c10 100%);
+  background-attachment: fixed;
+}
+
+/* ==========================================================================
+   Top Header (56px)
+   ========================================================================== */
+.app-header {
+  height: var(--header-height);
+  width: 100vw;
+  background: linear-gradient(180deg, rgba(26, 26, 34, 0.95) 0%, rgba(18, 18, 24, 0.95) 100%);
+  border-bottom: 1px solid var(--gold-border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.5rem;
+  z-index: 100;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+.header-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+}
+
+.byzantine-cross-icon {
+  width: 32px;
+  height: 32px;
+  color: var(--gold-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  filter: drop-shadow(0 0 6px var(--gold-glow));
+}
+
+.cross-svg {
+  width: 26px;
+  height: 26px;
+}
+
+.brand-titles {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-main {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: var(--gold-light);
+  text-shadow: 0 0 8px rgba(245, 215, 127, 0.3);
+  line-height: 1.15;
+}
+
+.brand-sub {
+  font-family: var(--font-sans);
+  font-size: 0.65rem;
+  letter-spacing: 0.16em;
+  color: var(--ivory-muted);
+  text-transform: uppercase;
+}
+
+/* Header Controls & Search */
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.search-box {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-icon {
+  position: absolute;
+  left: 10px;
+  color: var(--gold-primary);
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+#saint-search-input {
+  width: 260px;
+  height: 32px;
+  background: rgba(14, 14, 18, 0.8);
+  border: 1px solid var(--gold-border);
+  border-radius: 4px;
+  padding: 0 28px 0 32px;
+  color: var(--ivory-text);
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  transition: all 0.25s ease;
+}
+
+#saint-search-input:focus {
+  outline: none;
+  border-color: var(--gold-primary);
+  box-shadow: 0 0 10px var(--gold-glow);
+  width: 300px;
+  background: rgba(18, 18, 24, 0.95);
+}
+
+.clear-btn {
+  position: absolute;
+  right: 8px;
+  background: transparent;
+  border: none;
+  color: var(--ivory-muted);
+  font-size: 1.1rem;
+  cursor: pointer;
+  padding: 0 4px;
+}
+
+.clear-btn:hover {
+  color: var(--gold-light);
+}
+
+.view-indicator .today-gallery-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-family: var(--font-serif);
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.22) 0%, rgba(138, 109, 28, 0.18) 100%);
+  border: 1px solid var(--gold-primary);
+  padding: 5px 12px;
+  border-radius: 6px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 0 8px rgba(212, 175, 55, 0.2);
+}
+
+.view-indicator .today-gallery-btn:hover {
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.35) 0%, rgba(138, 109, 28, 0.28) 100%);
+  border-color: var(--gold-light);
+  box-shadow: 0 0 14px var(--gold-glow);
+  transform: translateY(-1px);
+  color: #FFF;
+}
+
+.view-indicator .today-gallery-btn:active {
+  transform: translateY(0);
+}
+
+/* ==========================================================================
+   Main 16:9 Viewport (Strict Landscape)
+   ========================================================================== */
+.main-viewport {
+  width: 100vw;
+  height: calc(100vh - var(--header-height));
+  display: flex;
+  overflow: hidden;
+}
+
+/* ==========================================================================
+   LEFT PANE (60% Width) - Calendar Grid & Controls
+   ========================================================================== */
+.left-pane {
+  width: 60%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--gold-border);
+  background: rgba(15, 15, 20, 0.55);
+  overflow: hidden;
+  padding: 0.6rem 1rem 0.6rem 1.2rem;
+}
+
+/* Toolbar & Filter Bar */
+.calendar-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  margin-bottom: 0.5rem;
+  flex-shrink: 0;
+}
+
+.month-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.nav-arrow-btn {
+  background: rgba(26, 26, 34, 0.7);
+  border: 1px solid var(--gold-border);
+  color: var(--gold-light);
+  width: 28px;
+  height: 28px;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.nav-arrow-btn:hover {
+  background: rgba(212, 175, 55, 0.2);
+  border-color: var(--gold-primary);
+  box-shadow: 0 0 8px var(--gold-glow);
+}
+
+.current-month-display {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.month-select-dropdown {
+  background: rgba(22, 22, 30, 0.9);
+  border: 1px solid var(--gold-border);
+  color: var(--gold-light);
+  font-family: var(--font-serif);
+  font-size: 1.1rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  padding: 2px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.2s ease;
+  text-shadow: 0 0 6px rgba(212, 175, 55, 0.3);
+}
+
+.month-select-dropdown:hover,
+.month-select-dropdown:focus {
+  border-color: var(--gold-primary);
+  box-shadow: 0 0 10px var(--gold-glow);
+  background: rgba(30, 30, 42, 0.95);
+}
+
+.month-select-dropdown option {
+  background: #181822;
+  color: var(--gold-light);
+  font-family: var(--font-serif);
+  font-weight: 700;
+  padding: 6px 10px;
+}
+
+.current-month-display .year-num {
+  font-family: var(--font-serif);
+  font-size: 0.95rem;
+  color: var(--ivory-muted);
+}
+
+/* Filter Chips */
+.filter-chips-container {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  flex-wrap: wrap;
+}
+
+.filter-group {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: rgba(10, 10, 14, 0.5);
+  padding: 2px 4px;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.filter-label {
+  font-family: var(--font-sans);
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--ivory-dim);
+  letter-spacing: 0.08em;
+  margin-right: 2px;
+}
+
+.chip-btn {
+  background: transparent;
+  border: 1px solid transparent;
+  color: var(--ivory-muted);
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 500;
+  padding: 2px 7px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.chip-btn:hover {
+  color: var(--gold-light);
+  border-color: rgba(212, 175, 55, 0.2);
+}
+
+.chip-btn.active {
+  background: rgba(212, 175, 55, 0.18);
+  border-color: var(--gold-primary);
+  color: var(--gold-light);
+  font-weight: 600;
+  box-shadow: 0 0 6px rgba(212, 175, 55, 0.25);
+}
+
+.chip-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.martyr-dot {
+  background-color: var(--crimson-light);
+  box-shadow: 0 0 4px var(--crimson-light);
+}
+
+.non-martyr-dot {
+  background-color: var(--gold-primary);
+  box-shadow: 0 0 4px var(--gold-primary);
+}
+
+/* 7-Column Weekday Headers */
+.calendar-weekdays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 6px;
+  margin-bottom: 4px;
+  flex-shrink: 0;
+}
+
+.weekday-col {
+  text-align: center;
+  font-family: var(--font-serif);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: var(--gold-primary);
+  opacity: 0.85;
+  padding: 3px 0;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+/* 7-Column Calendar Grid */
+.calendar-grid-wrapper {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+}
+
+.calendar-grid {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: repeat(var(--grid-rows, 5), 1fr);
+  gap: var(--grid-gap, 6px);
+  height: 100%;
+}
+
+.calendar-grid[data-rows="6"] .day-cell {
+  padding: 3px 5px;
+}
+
+.calendar-grid[data-rows="6"] .cell-thumb-wrapper {
+  width: 38px;
+  height: 38px;
+}
+
+.calendar-grid[data-rows="6"] .cell-saint-name {
+  font-size: 0.72rem;
+  line-height: 1.15;
+}
+
+.calendar-grid[data-rows="6"] .cell-manner-tag {
+  font-size: 0.58rem;
+}
+
+/* Day Cell Styling */
+.day-cell {
+  background: rgba(26, 26, 35, 0.7);
+  border: 1px solid rgba(212, 175, 55, 0.16);
+  border-radius: 5px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.22s cubic-bezier(0.2, 0, 0, 1);
+  padding: 4px 6px;
+}
+
+.day-cell:hover {
+  border-color: var(--gold-border-bright);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5), 0 0 8px rgba(212, 175, 55, 0.2);
+  z-index: 10;
+}
+
+.day-cell.today-cell {
+  border-color: var(--gold-primary);
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.16) 0%, rgba(28, 26, 22, 0.92) 100%);
+  box-shadow: inset 0 0 10px rgba(212, 175, 55, 0.18);
+}
+
+.day-cell.active-selected {
+  border: 1.5px solid var(--gold-light);
+  background: linear-gradient(135deg, rgba(38, 38, 52, 0.95) 0%, rgba(24, 24, 32, 0.95) 100%);
+  box-shadow: 0 0 14px var(--gold-glow), inset 0 0 10px rgba(212, 175, 55, 0.15);
+  z-index: 20;
+}
+
+.day-cell.today-cell.active-selected {
+  border: 2px solid var(--gold-light);
+  background: linear-gradient(135deg, rgba(58, 48, 28, 0.95) 0%, rgba(28, 26, 34, 0.96) 100%);
+  box-shadow: 0 0 18px var(--gold-glow), inset 0 0 12px rgba(212, 175, 55, 0.25);
+}
+
+.day-cell.dimmed {
+  opacity: 0.28;
+  filter: grayscale(80%);
+  pointer-events: auto;
+}
+
+/* Empty Offset Cell */
+.day-cell.offset-empty {
+  background: rgba(14, 14, 18, 0.35);
+  border-color: rgba(255, 255, 255, 0.03);
+  cursor: default;
+  pointer-events: none;
+}
+
+/* Cell Top Row: Date & Status Badge */
+.cell-top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2px;
+}
+
+.cell-date-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.cell-date-num {
+  font-family: var(--font-serif);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  line-height: 1;
+}
+
+.cell-today-pill {
+  font-family: var(--font-sans);
+  font-size: 0.52rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  background: var(--gold-primary);
+  color: #141418;
+  padding: 1px 4px;
+  border-radius: 3px;
+  line-height: 1.1;
+  box-shadow: 0 0 6px var(--gold-glow);
+}
+
+.cell-status-badge {
+  font-family: var(--font-sans);
+  font-size: 0.58rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 1px 4px;
+  border-radius: 3px;
+  line-height: 1.2;
+}
+
+.cell-status-badge.martyr-badge {
+  background: var(--crimson-martyr);
+  color: #FFF;
+  border: 1px solid var(--crimson-border);
+  box-shadow: 0 0 4px var(--crimson-glow);
+}
+
+.cell-status-badge.venerable-badge {
+  background: rgba(212, 175, 55, 0.15);
+  color: var(--gold-light);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+}
+
+/* Cell Main Content: Cropped Icon & Name */
+.cell-content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.cell-thumb-wrapper {
+  width: 44px;
+  height: 44px;
+  flex-shrink: 0;
+  border-radius: 4px;
+  border: 1px solid var(--gold-border);
+  position: relative;
+  overflow: hidden;
+  background: var(--bg-slate-dark);
+}
+
+.cell-thumb-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  transition: transform 0.3s ease;
+}
+
+.day-cell:hover .cell-thumb-img {
+  transform: scale(1.08);
+}
+
+/* Ornate SVG Byzantine Frame Fallback */
+.byzantine-svg-fallback {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(circle, #25231c 0%, #15151b 100%);
+  position: relative;
+}
+
+.byzantine-svg-fallback svg {
+  width: 100%;
+  height: 100%;
+}
+
+.cell-text-details {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cell-saint-name {
+  font-family: var(--font-serif);
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--ivory-text);
+  line-height: 1.2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  word-break: break-word;
+  hyphens: auto;
+}
+
+.cell-manner-tag {
+  display: inline-block;
+  max-width: 100%;
+  font-family: var(--font-sans);
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  padding: 1px 5px;
+  border-radius: 3px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 3px;
+  line-height: 1.2;
+}
+
+.cell-manner-tag.manner-martyr {
+  background: rgba(183, 28, 28, 0.28);
+  color: #FFCDD2;
+  border: 1px solid rgba(239, 83, 80, 0.45);
+}
+
+.cell-manner-tag.manner-venerable {
+  background: rgba(212, 175, 55, 0.12);
+  color: #FFF8E1;
+  border: 1px solid rgba(212, 175, 55, 0.28);
+}
+
+/* ==========================================================================
+   RIGHT PANE (40% Width) - Detailed Inspector Dossier
+   ========================================================================== */
+.right-pane {
+  width: 40%;
+  height: 100%;
+  background: linear-gradient(135deg, rgba(20, 20, 27, 0.98) 0%, rgba(13, 13, 17, 0.98) 100%);
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  overflow-x: hidden;
+  position: relative;
+  border-left: 1px solid rgba(212, 175, 55, 0.15);
+}
+
+/* Custom Scrollbar for Inspector Pane */
+.right-pane::-webkit-scrollbar {
+  width: 6px;
+}
+.right-pane::-webkit-scrollbar-track {
+  background: rgba(14, 14, 18, 0.8);
+}
+.right-pane::-webkit-scrollbar-thumb {
+  background: var(--gold-dark);
+  border-radius: 3px;
+}
+.right-pane::-webkit-scrollbar-thumb:hover {
+  background: var(--gold-primary);
+}
+
+.dossier-container {
+  padding: 1.4rem 1.6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+}
+
+/* Empty State */
+.dossier-empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  text-align: center;
+  color: var(--ivory-muted);
+  gap: 1rem;
+}
+
+.empty-halo-ornament {
+  width: 70px;
+  height: 70px;
+  border: 2px dashed var(--gold-border);
+  border-radius: 50%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Dossier: Ornate Icon Arch Display */
+.dossier-icon-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 0.4rem;
+}
+
+.dossier-arch-frame {
+  width: 180px;
+  height: 220px;
+  border-radius: 90px 90px 8px 8px; /* Byzantine Arch Top */
+  border: 3px solid var(--gold-primary);
+  box-shadow: 0 0 20px rgba(212, 175, 55, 0.25), inset 0 0 15px rgba(0, 0, 0, 0.8);
+  position: relative;
+  overflow: hidden;
+  background: var(--bg-slate-dark);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.dossier-arch-frame.clickable-gallery-trigger {
+  cursor: pointer;
+}
+
+.dossier-arch-frame.clickable-gallery-trigger:hover {
+  transform: scale(1.03);
+  border-color: var(--gold-light);
+  box-shadow: 0 0 28px rgba(212, 175, 55, 0.48), inset 0 0 15px rgba(0, 0, 0, 0.8);
+}
+
+.dossier-zoom-hint {
+  position: absolute;
+  bottom: 8px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(14, 14, 18, 0.88);
+  border: 1px solid var(--gold-primary);
+  color: var(--gold-light);
+  font-family: var(--font-sans);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 12px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  z-index: 6;
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+.dossier-arch-frame.clickable-gallery-trigger:hover .dossier-zoom-hint,
+.dossier-arch-frame.clickable-gallery-trigger:focus-visible .dossier-zoom-hint {
+  opacity: 1;
+}
+
+.dossier-arch-frame::before {
+  content: "";
+  position: absolute;
+  inset: 3px;
+  border: 1px dashed rgba(245, 215, 127, 0.6);
+  border-radius: 86px 86px 6px 6px;
+  pointer-events: none;
+  z-index: 5;
+}
+
+.dossier-icon-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+}
+
+.dossier-icon-caption {
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  color: var(--ivory-dim);
+  margin-top: 6px;
+  text-align: center;
+  letter-spacing: 0.04em;
+}
+
+/* Dossier: Under-Icon Badges Bar (Directly Under Picture, Before Text) */
+.dossier-under-icon-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  margin-bottom: 4px;
+  width: 100%;
+}
+
+.dossier-cause-death-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 4px 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.dossier-cause-death-badge.martyr-badge {
+  background: rgba(183, 28, 28, 0.35);
+  color: #FFCDD2;
+  border: 1px solid rgba(239, 83, 80, 0.55);
+  box-shadow: 0 0 10px rgba(183, 28, 28, 0.3);
+}
+
+.dossier-cause-death-badge.venerable-badge {
+  background: rgba(212, 175, 55, 0.16);
+  color: #FFF8E1;
+  border: 1px solid rgba(212, 175, 55, 0.42);
+  box-shadow: 0 0 10px rgba(212, 175, 55, 0.18);
+}
+
+.cause-badge-icon {
+  font-size: 0.85rem;
+  line-height: 1;
+}
+
+.cause-badge-label {
+  font-size: 0.62rem;
+  font-weight: 600;
+  opacity: 0.85;
+  letter-spacing: 0.08em;
+}
+
+.cause-badge-value {
+  font-weight: 800;
+  letter-spacing: 0.04em;
+}
+
+.dossier-martyrdom-status {
+  font-family: var(--font-sans);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  padding: 2px 8px;
+  border-radius: 10px;
+  text-transform: uppercase;
+}
+
+.dossier-martyrdom-status.status-martyr {
+  background: var(--crimson-martyr);
+  color: #FFF;
+  border: 1px solid var(--crimson-border);
+  box-shadow: 0 0 6px var(--crimson-glow);
+}
+
+.dossier-martyrdom-status.status-venerable {
+  background: rgba(212, 175, 55, 0.15);
+  color: var(--gold-light);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+}
+
+/* Dossier: Header Section */
+.dossier-header {
+  border-bottom: 1px solid var(--gold-border);
+  padding-bottom: 0.8rem;
+}
+
+.dossier-meta-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.3rem;
+}
+
+.dossier-feast-date {
+  font-family: var(--font-serif);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  color: var(--gold-light);
+  text-transform: uppercase;
+}
+
+.dossier-tradition-badge {
+  font-family: var(--font-sans);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  padding: 2px 8px;
+  border-radius: 10px;
+  text-transform: uppercase;
+}
+
+.dossier-tradition-badge.eastern-orthodox {
+  background: rgba(212, 175, 55, 0.16);
+  border: 1px solid var(--gold-primary);
+  color: var(--gold-light);
+}
+
+.dossier-tradition-badge.catholic {
+  background: rgba(144, 164, 174, 0.16);
+  border: 1px solid #B0BEC5;
+  color: #ECEFF1;
+}
+
+.dossier-tradition-badge.shared {
+  background: rgba(186, 104, 200, 0.18);
+  border: 1px solid #CE93D8;
+  color: #F3E5F5;
+}
+
+.dossier-saint-name {
+  font-family: var(--font-display);
+  font-size: 1.45rem;
+  font-weight: 900;
+  color: #FFF;
+  line-height: 1.2;
+  margin-bottom: 0.25rem;
+  letter-spacing: 0.05em;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+  word-break: break-word;
+}
+
+.dossier-canonical-title {
+  font-family: var(--font-body);
+  font-size: 0.98rem;
+  font-style: italic;
+  color: var(--gold-metallic);
+  line-height: 1.3;
+  word-break: break-word;
+}
+
+/* Dossier: Death & Martyrdom Callout Box */
+.dossier-death-callout {
+  padding: 0.85rem 1.1rem;
+  border-radius: 6px;
+  position: relative;
+  overflow: hidden;
+  border-left: 4px solid var(--gold-primary);
+}
+
+.dossier-death-callout.martyr-callout {
+  background: linear-gradient(135deg, rgba(139, 0, 0, 0.25) 0%, rgba(84, 0, 0, 0.2) 100%);
+  border-left-color: var(--crimson-light);
+  border: 1px solid var(--crimson-border);
+  border-left-width: 4px;
+  box-shadow: 0 0 15px rgba(139, 0, 0, 0.18);
+}
+
+.dossier-death-callout.venerable-callout {
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.12) 0%, rgba(30, 26, 18, 0.4) 100%);
+  border-left-color: var(--gold-primary);
+  border: 1px solid var(--gold-border);
+  border-left-width: 4px;
+}
+
+.callout-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.4rem;
+}
+
+.callout-heading {
+  font-family: var(--font-serif);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.martyr-callout .callout-heading {
+  color: #FF8A80;
+}
+
+.venerable-callout .callout-heading {
+  color: var(--gold-light);
+}
+
+.callout-manner-pill {
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 3px;
+  letter-spacing: 0.04em;
+  background: rgba(0, 0, 0, 0.35);
+  color: var(--ivory-text);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.callout-summary-text {
+  font-family: var(--font-body);
+  font-size: 0.98rem;
+  line-height: 1.45;
+  color: var(--ivory-text);
+}
+
+/* Dossier: Curated Mini-Biography */
+.dossier-bio-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.bio-section-title {
+  font-family: var(--font-serif);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  color: var(--gold-light);
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.bio-section-title::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, var(--gold-border) 0%, transparent 100%);
+}
+
+.bio-text {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--ivory-text);
+  text-align: justify;
+}
+
+.bio-text::first-letter {
+  font-family: var(--font-display);
+  font-size: 2.2rem;
+  font-weight: 900;
+  float: left;
+  line-height: 0.85;
+  margin-right: 6px;
+  margin-top: 4px;
+  color: var(--gold-light);
+  text-shadow: 0 0 6px var(--gold-glow);
+}
+
+/* Dossier: Verified Sources Footer */
+.dossier-sources-section {
+  margin-top: auto;
+  border-top: 1px solid var(--gold-border);
+  padding-top: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.sources-heading {
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--ivory-muted);
+  text-transform: uppercase;
+}
+
+.sources-link-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  list-style: none;
+}
+
+.source-item-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--gold-light);
+  text-decoration: none;
+  background: rgba(212, 175, 55, 0.08);
+  border: 1px solid var(--gold-border);
+  padding: 4px 9px;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.source-item-link:hover {
+  background: rgba(212, 175, 55, 0.2);
+  border-color: var(--gold-primary);
+  box-shadow: 0 0 8px var(--gold-glow);
+  transform: translateY(-1px);
+}
+
+.verified-dot-tag {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: #4CAF50;
+  box-shadow: 0 0 4px #4CAF50;
+}
+
+/* ==========================================================================
+   FULLSCREEN ICON GALLERY MODAL
+   ========================================================================== */
+.gallery-modal-overlay {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gallery-modal-overlay[hidden] {
+  display: none !important;
+}
+
+.gallery-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 50% 45%, rgba(22, 20, 28, 0.94) 0%, rgba(8, 8, 12, 0.98) 100%);
+  backdrop-filter: blur(8px);
+}
+
+.gallery-modal-content {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  max-width: 1400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 3rem;
+}
+
+.gallery-close-btn {
+  position: absolute;
+  top: 1.5rem;
+  right: 2rem;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(24, 24, 32, 0.9);
+  border: 1.5px solid var(--gold-primary);
+  color: var(--gold-light);
+  font-size: 1.8rem;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
+  z-index: 10;
+}
+
+.gallery-close-btn:hover {
+  background: rgba(212, 175, 55, 0.25);
+  border-color: #FFF;
+  color: #FFF;
+  transform: scale(1.08);
+  box-shadow: 0 0 18px var(--gold-glow);
+}
+
+.gallery-nav-btn {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: rgba(24, 24, 34, 0.88);
+  border: 1.5px solid var(--gold-primary);
+  color: var(--gold-light);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: all 0.22s ease;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.6), 0 0 10px rgba(212, 175, 55, 0.2);
+  z-index: 5;
+}
+
+.gallery-nav-btn:hover {
+  background: rgba(212, 175, 55, 0.25);
+  border-color: var(--gold-light);
+  color: #FFF;
+  transform: scale(1.1);
+  box-shadow: 0 0 22px var(--gold-glow);
+}
+
+.gallery-nav-btn:active {
+  transform: scale(0.98);
+}
+
+.gallery-stage {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.1rem;
+  padding: 0 2rem;
+  max-height: 92vh;
+}
+
+.gallery-image-showcase {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-height: 66vh;
+}
+
+.gallery-ornate-frame {
+  padding: 10px;
+  background: linear-gradient(145deg, #25221b 0%, #14141a 100%);
+  border: 3px solid var(--gold-primary);
+  border-radius: 12px;
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.85), 0 0 32px rgba(212, 175, 55, 0.28);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gallery-ornate-frame.frame-martyr {
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.85), 0 0 34px rgba(183, 28, 28, 0.38), 0 0 16px rgba(212, 175, 55, 0.25);
+}
+
+.gallery-ornate-frame::before {
+  content: "";
+  position: absolute;
+  inset: 4px;
+  border: 1px dashed rgba(245, 215, 127, 0.55);
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+.gallery-magnified-img {
+  max-height: 62vh;
+  max-width: 68vw;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 6px;
+  display: block;
+}
+
+.gallery-info-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.4rem;
+  max-width: 820px;
+}
+
+.gallery-meta-pills {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 0.2rem;
+}
+
+.gallery-feast-pill {
+  font-family: var(--font-serif);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: var(--gold-light);
+  background: rgba(212, 175, 55, 0.14);
+  border: 1px solid var(--gold-border);
+  padding: 3px 10px;
+  border-radius: 10px;
+}
+
+.gallery-today-tag {
+  color: #FFF;
+  margin-left: 4px;
+}
+
+.gallery-saint-name {
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  font-weight: 900;
+  color: #FFF;
+  letter-spacing: 0.06em;
+  text-shadow: 0 0 14px rgba(245, 215, 127, 0.35);
+  line-height: 1.15;
+}
+
+.gallery-saint-title {
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--gold-metallic);
+}
+
+.gallery-step-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 0.45rem;
+  flex-wrap: wrap;
+}
+
+.gallery-step-pill {
+  background: rgba(24, 24, 34, 0.85);
+  border: 1px solid var(--gold-border);
+  color: var(--ivory-text);
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 5px 12px;
+  border-radius: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  max-width: 280px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.gallery-step-pill:hover {
+  background: rgba(212, 175, 55, 0.2);
+  border-color: var(--gold-primary);
+  color: var(--gold-light);
+  box-shadow: 0 0 10px var(--gold-glow);
+}
+
+.gallery-day-counter {
+  font-family: var(--font-serif);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  color: var(--ivory-muted);
+  text-transform: uppercase;
+}

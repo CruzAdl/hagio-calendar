@@ -1,0 +1,816 @@
+[
+  {
+    "id": "saint-06-01",
+    "month": 6,
+    "day": 1,
+    "date": "June 1",
+    "name": "Saint Charita of Rome",
+    "title": "Holy Martyr Charita of Rome, Disciple of Saint Justin Martyr",
+    "tradition": "Shared",
+    "curatedBio": "Charita was a devout Christian woman living in Rome during the reign of Emperor Marcus Aurelius. A devoted disciple of the Christian philosopher Saint Justin Martyr, she attended his philosophical school in Rome, studying the defense of the Christian faith. When Justin and his students were arrested by the Roman prefect Rusticus in 165 for refusing to offer incense to pagan idols, Charita boldly confessed her faith in Jesus Christ, refusing to apostatize under threat of death.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation",
+    "deathSummary": "Saint Charita was scourged and beheaded in Rome around 165 alongside Saint Justin Martyr and their companions.",
+    "image": {
+      "url": "/icons/saint-06-01.jpg",
+      "title": "Saint Charita of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Charita"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/06/01/101579-martyrs-justin-the-philosopher-and-another-justin-and-with-them-ch"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-02",
+    "month": 6,
+    "day": 2,
+    "date": "June 2",
+    "name": "Saint Blandina of Lyon",
+    "title": "Holy Virgin Martyr Blandina of Lyon, Patroness of Lyon",
+    "tradition": "Shared",
+    "curatedBio": "Blandina was an enslaved Christian maiden living in Lugdunum (modern Lyon, France) during the ferocious persecutions under Emperor Marcus Aurelius in 177. Despite her frail physical stature, Blandina endured days of torture that exhausted relays of executioners, continually crying out: \"I am a Christian, and among us no evil is done!\" Bound to a stake in the amphitheater as meat for wild beasts that refused to touch her, she inspired her fellow martyrs with superhuman fortitude.",
+    "isMartyr": true,
+    "mannerOfDeath": "Enclosed in a net and gored by a wild bull",
+    "deathSummary": "After scourging, roasting upon an iron chair, and goring by a bull, Saint Blandina was dispatched by the sword in Lyon in 177.",
+    "image": {
+      "url": "/icons/saint-06-02.jpg",
+      "title": "Saint Blandina of Lyon Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blandina"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/02594a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-03",
+    "month": 6,
+    "day": 3,
+    "date": "June 3",
+    "name": "Saint Clotilde",
+    "title": "Saint Clotilde, Queen of the Franks and Patroness of Brides",
+    "tradition": "Shared",
+    "curatedBio": "Clotilde was a Burgundian Christian princess born around 475. In 493 she married King Clovis I of the Salian Franks, who remained a pagan. Through her gentle persuasion, patient prayer, and moral witness, Clovis promised during the desperate Battle of Tolbiac in 496 to accept baptism if granted victory. Clovis was baptized alongside three thousand Frankish warriors on Christmas Day 496, establishing France as the \"Eldest Daughter of the Church\".",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Queen Clotilde died peacefully in Tours on June 3, 545 at Saint Martin's Basilica; she was buried in Paris.",
+    "image": {
+      "url": "/icons/saint-06-03.jpg",
+      "title": "Saint Clotilde Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clotilde"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/04066a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-04",
+    "month": 6,
+    "day": 4,
+    "date": "June 4",
+    "name": "Saint Saturnina of Arras",
+    "title": "Holy Virgin Martyr Saturnina of Arras",
+    "tradition": "Shared",
+    "curatedBio": "Saturnina was an eighth-century noble maiden of Germany who fled across the Rhine to avoid a forced marriage to an unyielding pagan suitor. Settling in the region of Arras in northern Gaul, she lived as a consecrated virgin, dedicating her days to prayer and instructing peasant children in the Gospel. Her relentless suitor pursued her across Gaul, discovering her kneeling in prayer in a forest near Sains-lès-Marquion, where he drew his sword in fury.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation",
+    "deathSummary": "Saint Saturnina was beheaded at Sains-lès-Marquion around 750; her relics are venerated in the Cathedral of Tournai.",
+    "image": {
+      "url": "/icons/saint-06-04.jpg",
+      "title": "Saint Saturnina of Arras Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saturnina"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-05",
+    "month": 6,
+    "day": 5,
+    "date": "June 5",
+    "name": "Saint Valeria of Caesarea",
+    "title": "Holy Martyr Valeria of Caesarea in Palestine",
+    "tradition": "Shared",
+    "curatedBio": "Valeria was a Christian woman living in Caesarea Maritima in Palestine during the persecutions of Emperor Diocletian around 304. Alongside her Christian companions Cyria and Zenaida, she withdrew to a quiet house outside the city walls, dedicating herself to fasting, vigils, and persistent intercessory prayer for the preservation of the persecuted Church. Denounced to Roman governor Galerius for gathering Christians in prayer, Valeria refused to sacrifice to idols, persevering through cruel scourging.",
+    "isMartyr": true,
+    "mannerOfDeath": "Scourged and executed",
+    "deathSummary": "Saint Valeria was tortured and crowned with martyrdom at Caesarea in Palestine around 304.",
+    "image": {
+      "url": "/icons/saint-06-05.jpg",
+      "title": "Saint Valeria of Caesarea Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Valeria_of_Milan"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/06/06/101633-martyr-valeria-of-palestine"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-06",
+    "month": 6,
+    "day": 6,
+    "date": "June 6",
+    "name": "Saint Candida of Rome",
+    "title": "Holy Virgin Martyr Candida of Rome",
+    "tradition": "Shared",
+    "curatedBio": "Candida was an early Christian maiden of Rome living during the persecutions under Emperor Diocletian. Consecrating her virginity to Jesus Christ, she was arrested on the Ostian Way for visiting and burying the bodies of martyred Christians. Brought before the Roman magistrate, she boldly proclaimed her allegiance to the Savior and refused to sacrifice to pagan idols. Stripped and severely beaten with rods, she was led to the Portuensian Way where she was crowned with martyrdom.",
+    "isMartyr": true,
+    "mannerOfDeath": "Beaten to death with leaded scourges",
+    "deathSummary": "Saint Candida was martyred outside Rome around 304 and buried in the Catacombs of Saint Felix on the Via Portuense.",
+    "image": {
+      "url": "/icons/saint-06-06.jpg",
+      "title": "Saint Candida of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Candida_the_Elder"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-07",
+    "month": 6,
+    "day": 7,
+    "date": "June 7",
+    "name": "Saint Maria Teresa Soubiran",
+    "title": "Blessed Maria Teresa Soubiran, Foundress of the Sisters of Marie Auxiliatrice",
+    "tradition": "Catholic",
+    "curatedBio": "Sophie Soubiran was born in Castelnaudary, France in 1820. In 1854 she founded the Sisters of Marie Auxiliatrice, uniting perpetual adoration of the Blessed Sacrament with compassionate social work for destitute, overworked young factory women in Paris. In an extraordinary trial of sanctity, a manipulative assistant falsely accused Mother Soubiran, expelling her from her own congregation in 1874. She lived her final fifteen years in silent humility as an anonymous sister in Paris.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Blessed Maria Teresa died peacefully in Paris on June 7, 1889 at sixty-nine; her innocence was fully restored post-mortem.",
+    "image": {
+      "url": "/icons/saint-06-07.jpg",
+      "title": "Saint Maria Teresa Soubiran Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marie-Th%C3%A9r%C3%A8se_de_Soubiran"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-08",
+    "month": 6,
+    "day": 8,
+    "date": "June 8",
+    "name": "Saint Melania the Elder",
+    "title": "Saint Melania the Elder, Roman Patrician and Desert Mother of Jerusalem",
+    "tradition": "Shared",
+    "curatedBio": "Melania was born in Spain around 350 into the Roman senatorial aristocracy. Widowed at twenty-two after losing her husband and two sons, she placed her remaining son in Roman guardianship, sold her vast estates, and sailed to Egypt to visit the Desert Fathers of Nitria. When Arian persecutions struck the Egyptian monasteries, Melania personally financed the exiled monks in Palestine. In 375, she founded a double monastery on the Mount of Olives in Jerusalem, guiding fifty nuns in prayer and scholarly translation.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Melania reposed peacefully in Jerusalem around 410 at sixty years of age.",
+    "image": {
+      "url": "/icons/saint-06-08.jpg",
+      "title": "Saint Melania the Elder Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Melania_the_Elder"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/10155a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-09",
+    "month": 6,
+    "day": 9,
+    "date": "June 9",
+    "name": "Saint Pelagia of Antioch",
+    "title": "Holy Virgin Martyr Pelagia of Antioch, Crowned with Glory",
+    "tradition": "Shared",
+    "curatedBio": "Pelagia was a fifteen-year-old Christian maiden living in Antioch during the Diocletian persecutions. When soldiers surrounded her home to drag her to trial and violation in a brothel, she asked permission to go upstairs to dress. Clothed in bridal white, she prayed to preserve her virginal dedication to Christ intact, then threw herself from the parapet into the courtyard below. Praised by Saint John Chrysostom in two sermons, her death was hailed as an act of holy martyrdom.",
+    "isMartyr": true,
+    "mannerOfDeath": "Leapt from roof to preserve virginity",
+    "deathSummary": "Saint Pelagia yielded her pure spirit to God in Antioch around 303; her feast was observed universally across early Christendom.",
+    "image": {
+      "url": "/icons/saint-06-09.jpg",
+      "title": "Saint Pelagia of Antioch Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pelagia_of_Antioch"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-10",
+    "month": 6,
+    "day": 10,
+    "date": "June 10",
+    "name": "Saint Margaret of Scotland",
+    "title": "Saint Margaret of Scotland, Queen and Benefactress of the Poor",
+    "tradition": "Shared",
+    "curatedBio": "Born in Hungary around 1045 into the English royal house of Wessex, Margaret fled England following the Norman Conquest and married King Malcolm III of Scotland in 1070. As Queen of Scots, she brought religious, liturgical, and cultural renewal to Scotland, reforming church synods and founding Dunfermline Abbey. Celebrated for extraordinary personal charity, she washed the feet of six poor beggars every morning and secretly emptied the royal treasury to feed starving highland peasants.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Queen Margaret died in Edinburgh Castle on November 16, 1093 at forty-eight; her feast is kept on June 10.",
+    "image": {
+      "url": "/icons/saint-06-10.jpg",
+      "title": "Saint Margaret of Scotland Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/09655a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-11",
+    "month": 6,
+    "day": 11,
+    "date": "June 11",
+    "name": "Saint Paula Frassinetti",
+    "title": "Saint Paula Frassinetti, Foundress of the Sisters of Saint Dorothy",
+    "tradition": "Catholic",
+    "curatedBio": "Paula was born in Genoa in 1809. In 1834 at Quinto near Genoa, she gathered six companions to establish a free primary school for impoverished girls, founding the Sisters of Saint Dorothy. Enduring extreme poverty, internal dissent, and anti-clerical hostility in nineteenth-century Italy, she relocated the motherhouse to Saint Onofrio on the Janiculum Hill in Rome in 1844, expanding the congregation across Europe and establishing flourishing educational missions in Brazil.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Paula died of pneumonia in Rome on June 11, 1884 at seventy-four; her body remains incorrupt at Sant'Onofrio.",
+    "image": {
+      "url": "/icons/saint-06-11.jpg",
+      "title": "Saint Paula Frassinetti Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Paula_Frassinetti"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-12",
+    "month": 6,
+    "day": 12,
+    "date": "June 12",
+    "name": "Saint Cunigunde of Poland",
+    "title": "Saint Kinga (Cunigunde) of Poland, Queen and Poor Clare Abbess",
+    "tradition": "Catholic",
+    "curatedBio": "Kinga was born in 1224, the daughter of King Béla IV of Hungary and niece of Saint Elizabeth of Hungary. Married to Boleslaus V the Chaste, High Duke of Poland, both spouses took a mutual vow of perpetual chastity before the Bishop of Kraków. Using her dowry to ransom prisoners and rebuild Polish towns destroyed by the Mongol invasions, she founded the salt mines of Wieliczka and the Poor Clare monastery of Stary Sącz, where she retired as a nun upon her husband’s death.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Kinga died peacefully at Stary Sącz on July 24, 1292 at sixty-eight years of age.",
+    "image": {
+      "url": "/icons/saint-06-12.jpg",
+      "title": "Saint Cunigunde of Poland Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kinga_of_Poland"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/04569a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-13",
+    "month": 6,
+    "day": 13,
+    "date": "June 13",
+    "name": "Saint Aquilina of Byblos",
+    "title": "Holy Virgin Martyr Aquilina of Byblos",
+    "tradition": "Shared",
+    "curatedBio": "Aquilina was a twelve-year-old Christian girl living in Byblos (Phoenicia) during the Diocletian persecutions. Converted by Bishop Euthalius, she was denounced to Roman magistrate Volusian for teaching Christianity to her young school companions. Brought before the tribunal, she refused to worship idols. The magistrate ordered red-hot needles driven through her ears and temples, burning her brain; miraculously revived by an angel in prison, she knelt in thanksgiving before her final crown.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation",
+    "deathSummary": "Saint Aquilina was beheaded at Byblos on June 13, 293 at twelve years of age; sweet-scented myrrh flowed from her relics.",
+    "image": {
+      "url": "/icons/saint-06-13.jpg",
+      "title": "Saint Aquilina of Byblos Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aquilina"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/06/13/101712-virgin-martyr-aquilina-of-byblos-in-syria"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-14",
+    "month": 6,
+    "day": 14,
+    "date": "June 14",
+    "name": "Blessed Castora Gabrielli",
+    "title": "Blessed Castora Gabrielli, Franciscan Penitent of Gubbio",
+    "tradition": "Catholic",
+    "curatedBio": "Castora was born in Gubbio, Umbria into the noble Gabrielli family. Married to the nobleman Santuccio Sanfonerio, she suffered twenty-five years of verbal violence, domestic cruelty, and contempt from her unfaithful husband with heroic meekness and unceasing prayer. Following his death, she distributed her wealth to the indigent and entered the Third Order of Saint Francis, spending her remaining years in mystical contemplation and serving the sick in the hospitals of Gubbio.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Blessed Castora died peacefully in Gubbio on June 14, 1391; her relics are venerated in the Church of San Francesco.",
+    "image": {
+      "url": "/icons/saint-06-14.jpg",
+      "title": "Blessed Castora Gabrielli Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Castora_Gabrielli"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-15",
+    "month": 6,
+    "day": 15,
+    "date": "June 15",
+    "name": "Saint Germaine Cousin",
+    "title": "Saint Germaine Cousin, The Little Shepherdess of Pibrac",
+    "tradition": "Catholic",
+    "curatedBio": "Born in Pibrac near Toulouse in 1579, Germaine was born with a deformed right hand and suffered from severe scrofula. Abused and starved by her cruel stepmother, she was forced to sleep in the stable on straw and tend sheep in the forest. Despite severe privation, she shared her meager crusts with beggars, led village children in prayer, and attended daily Mass. Miraculously, sheep left under the protection of her staff were never attacked by wolves in the forest.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Germaine died peacefully on her straw bed in the stable on June 15, 1601 at twenty-two; her body was found incorrupt in 1644.",
+    "image": {
+      "url": "/icons/saint-06-15.jpg",
+      "title": "Saint Germaine Cousin Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Germaine_Cousin"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/06473b.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-16",
+    "month": 6,
+    "day": 16,
+    "date": "June 16",
+    "name": "Saint Julitta of Tarsus",
+    "title": "Holy Martyr Julitta and her Child Cyricus of Tarsus",
+    "tradition": "Shared",
+    "curatedBio": "Julitta was a wealthy Christian noblewoman living in Iconium (Asia Minor) during the Diocletian persecutions. Fleeing with her three-year-old son Cyricus to Tarsus, she was arrested by governor Alexander. Refusing to sacrifice to idols, Julitta was scourged. As she was beaten, little Cyricus struggled in the governor's arms, crying out: \"I am a Christian too!\" and scratching the tyrant’s face. Enraged, the governor threw the toddler down the stone steps, killing him instantly.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation after witnessing son’s martyrdom",
+    "deathSummary": "Thanking God that her child had preceded her to paradise, Saint Julitta was beheaded at Tarsus on June 16, 304.",
+    "image": {
+      "url": "/icons/saint-06-16.jpg",
+      "title": "Saint Julitta of Tarsus Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyricus_and_Julitta"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/07/15/102030-martyrs-cyricus-and-his-mother-julitta-of-tarsus"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-17",
+    "month": 6,
+    "day": 17,
+    "date": "June 17",
+    "name": "Saint Emily de Vialar",
+    "title": "Saint Emily de Vialar, Foundress of the Sisters of Saint Joseph of the Apparition",
+    "tradition": "Catholic",
+    "curatedBio": "Anne Marguerite Émilie de Vialar was born in Gaillac, France in 1797 into the provincial nobility. Following her mother's early death, she spent fifteen years caring for the poor and sick in her hometown. In 1832, inheriting a substantial fortune from her grandfather, she purchased a house in Gaillac and founded the Sisters of Saint Joseph of the Apparition. In 1835 she sailed to Algiers, establishing schools and hospitals across North Africa, Greece, and the Ottoman Empire.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Emily died peacefully in Marseille on August 24, 1856 at fifty-eight years of age; her feast is kept on June 17.",
+    "image": {
+      "url": "/icons/saint-06-17.jpg",
+      "title": "Saint Emily de Vialar Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/%C3%89milie_de_Vialar"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-18",
+    "month": 6,
+    "day": 18,
+    "date": "June 18",
+    "name": "Saint Elizabeth of Schönau",
+    "title": "Saint Elizabeth of Schönau, Benedictine Mystic and Visionary",
+    "tradition": "Catholic",
+    "curatedBio": "Born near Bonn in 1129, Elizabeth entered the double monastery of Schönau Abbey at age twelve, making profession as a Benedictine nun in 1147. From age twenty-three she experienced profound ecstatic visions of the heavenly court, the Virgin Mary, and the martyrdom of Saint Ursula and her companions. A spiritual confidante and correspondent of Saint Hildegard of Bingen, Elizabeth recorded her visionary theological dialogues in three celebrated Latin books, Liber Visionum, guiding medieval monastic reform.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Elizabeth died peacefully at Schönau Abbey on June 18, 1164 at thirty-five years of age.",
+    "image": {
+      "url": "/icons/saint-06-18.jpg",
+      "title": "Saint Elizabeth of Schönau Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elisabeth_of_Sch%C3%B6nau"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/05391a.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-19",
+    "month": 6,
+    "day": 19,
+    "date": "June 19",
+    "name": "Saint Juliana Falconieri",
+    "title": "Saint Juliana Falconieri, Foundress of the Servite Religious Sisters",
+    "tradition": "Catholic",
+    "curatedBio": "Born in Florence in 1270 into the noble Falconieri family, Juliana refused all marriage proposals arranged by her family, receiving the habit of the Servants of Mary (Servites) from her uncle, Saint Alexis Falconieri. In 1304, she founded the Mantellate (Servite Tertiary Sisters), dedicating her life to nursing the sick, reconciling feuding factions in Florence, and practicing intense mortification. On her deathbed, unable to ingest food, the Holy Host placed upon her chest miraculously vanished into her flesh.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Juliana died peacefully in Florence on June 19, 1341 at seventy-one; a cross-shaped mark remained upon her chest.",
+    "image": {
+      "url": "/icons/saint-06-19.jpg",
+      "title": "Saint Juliana Falconieri Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Juliana_Falconieri"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/08556b.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-20",
+    "month": 6,
+    "day": 20,
+    "date": "June 20",
+    "name": "Saint Florence of Poitiers",
+    "title": "Saint Florence of Poitiers, Virgin Hermit and Disciple of Saint Hilary",
+    "tradition": "Shared",
+    "curatedBio": "Florence was a fourth-century young pagan maiden living in Phrygia (Asia Minor). When Saint Hilary of Poitiers was exiled to Phrygia by Emperor Constantius II for defending the Nicene faith against Arianism, Florence heard him preach Christ and was converted and baptized. When Hilary was recalled to Gaul in 360, Florence followed him to Poitiers, where Hilary established her in a solitary hermitage near Comblé (Celle-l’Evescault). She spent her life in prayer, fasting, and contemplation.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Florence reposed peacefully in her hermitage at Comblé around 366 at twenty-nine years of age.",
+    "image": {
+      "url": "/icons/saint-06-20.jpg",
+      "title": "Saint Florence of Poitiers Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Florence_of_Poitiers"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-21",
+    "month": 6,
+    "day": 21,
+    "date": "June 21",
+    "name": "Saint Demetria of Rome",
+    "title": "Holy Virgin Martyr Demetria of Rome",
+    "tradition": "Shared",
+    "curatedBio": "Demetria was the daughter of Saint Flavian and Saint Dafrosa, and the sister of Saint Bibiana. During the persecutions of Roman Emperor Julian the Apostate in 362, when her noble parents were martyred for their Christian confession, Demetria and Bibiana were stripped of their ancestral estate and confined in their home without food. Hauled before the Roman governor Apronianus, Demetria boldly proclaimed her faith in Jesus Christ, falling dead at the tribunal from exhaustion and supernatural peace.",
+    "isMartyr": true,
+    "mannerOfDeath": "Died during tribunal confession under Julian the Apostate",
+    "deathSummary": "Saint Demetria yielded her spirit to God at the Roman tribunal on June 21, 362; her body was buried near the Church of Santa Bibiana.",
+    "image": {
+      "url": "/icons/saint-06-21.jpg",
+      "title": "Saint Demetria of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demetria"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-22",
+    "month": 6,
+    "day": 22,
+    "date": "June 22",
+    "name": "Saint Alena of Forest",
+    "title": "Holy Virgin Martyr Alena of Forest (Brussels)",
+    "tradition": "Shared",
+    "curatedBio": "Alena was a seventh-century noble maiden born in Dilbeek near Brussels to a pagan Frankish lord named Levold. Secretly drawn to the Christian faith, she slipped out of her father's castle across the river to attend night vigils at the Christian church in Forest. When her father discovered her secret Christian devotion, he dispatched guards to drag her home. Resisting their force while clinging to a tree trunk, the guards brutally severed her arm.",
+    "isMartyr": true,
+    "mannerOfDeath": "Arm severed by soldiers during arrest",
+    "deathSummary": "Saint Alena bled to death from her severed arm at Forest around 640; an angel carried her severed limb to the church altar.",
+    "image": {
+      "url": "/icons/saint-06-22.jpg",
+      "title": "Saint Alena of Forest Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alena"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-23",
+    "month": 6,
+    "day": 23,
+    "date": "June 23",
+    "name": "Saint Audrey of Ely",
+    "title": "Saint Audrey (Æthelthryth), Anglo-Saxon Queen and Abbess of Ely",
+    "tradition": "Shared",
+    "curatedBio": "Æthelthryth was born in Exning, Suffolk around 636, the daughter of King Anna of East Anglia. Married for political reasons first to Tondberht and later to King Ecgfrith of Northumbria, she preserved her perpetual virginity throughout twelve years of royal marriage. Receiving the veil from Saint Wilfrid in 672, she founded the great double monastery of Ely on an island in the fens, governing her community with austere humility and wearing only coarse wool.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes (tumor on the neck)",
+    "deathSummary": "Saint Audrey died at Ely on June 23, 679; sixteen years later her body was found incorrupt; her name originated the word \"tawdry\".",
+    "image": {
+      "url": "/icons/saint-06-23.jpg",
+      "title": "Saint Audrey of Ely Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/%C3%86thelthryth"
+      },
+      {
+        "label": "New Advent (Catholic Encyclopedia)",
+        "url": "https://www.newadvent.org/cathen/05554b.htm"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-24",
+    "month": 6,
+    "day": 24,
+    "date": "June 24",
+    "name": "Saint Elizabeth",
+    "title": "Righteous Elizabeth, Mother of Saint John the Baptist",
+    "tradition": "Shared",
+    "curatedBio": "Elizabeth was of the lineage of Aaron, the righteous wife of the priest Zechariah, living in the hill country of Judea. Barren and advanced in years, the Archangel Gabriel announced to Zechariah that she would bear the Forerunner of the Lord. When the Virgin Mary visited her, Elizabeth was filled with the Holy Spirit and cried out: \"Blessed art thou among women, and blessed is the fruit of thy womb!\" During Herod’s slaughter of the innocents, a mountain miraculously opened to shelter Elizabeth and John.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Elizabeth reposed peacefully in the Judean wilderness forty days after Zechariah’s martyrdom in the Temple.",
+    "image": {
+      "url": "/icons/saint-06-24.jpg",
+      "title": "Saint Elizabeth Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_(biblical_figure)"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/09/05/102506-holy-prophet-zechariah-and-righteous-elizabeth-parents-of-st-john"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-25",
+    "month": 6,
+    "day": 25,
+    "date": "June 25",
+    "name": "Saint Febronia of Nisibis",
+    "title": "Holy Virgin Martyr Febronia of Nisibis",
+    "tradition": "Shared",
+    "curatedBio": "Febronia was an exceptionally beautiful and scholarly nun in a monastery of fifty virgins in Nisibis, Mesopotamia under her aunt Abbess Bryene. When Roman soldiers under Selenus and Lysimachus surrounded the city to execute Christians during the Diocletian persecutions, the sisters fled, but Febronia remained behind caring for the bedridden. Arrested and offered royal wealth if she apostatized, eighteen-year-old Febronia refused. Stripped, racked, and having her teeth and breasts severed, she prayed unceasingly.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation and dismemberment",
+    "deathSummary": "Saint Febronia was beheaded at Nisibis around 304; the commander Lysimachus was so stricken that he converted and became a monk.",
+    "image": {
+      "url": "/icons/saint-06-25.jpg",
+      "title": "Saint Febronia of Nisibis Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Febronia_of_Nisibis"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/06/25/101809-virgin-martyr-febronia-of-nisibis"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-26",
+    "month": 6,
+    "day": 26,
+    "date": "June 26",
+    "name": "Saint Perseveranda",
+    "title": "Saint Perseveranda (Pecinna), Holy Virgin of Poitou",
+    "tradition": "Shared",
+    "curatedBio": "Perseveranda was an early Christian maiden born in Poitou in western Gaul. Consecrating her virginity to Jesus Christ, she lived an austere communal life of prayer alongside her holy sisters in the diocese of Poitiers. Celebrated for persevering fidelity during periods of barbarian unrest and civil strife in late antique Gaul, she instructed generations of Christian women in scripture and holy chastity, giving rise to the shrine of Sainte-Pézenne near Niort.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Perseveranda reposed peacefully in Poitou around 726; her tomb is in Sainte-Pézenne.",
+    "image": {
+      "url": "/icons/saint-06-26.jpg",
+      "title": "Saint Perseveranda Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Perseveranda"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-27",
+    "month": 6,
+    "day": 27,
+    "date": "June 27",
+    "name": "Saint Joanna the Myrrhbearer",
+    "title": "Righteous Joanna the Myrrhbearer, Witness of the Resurrection",
+    "tradition": "Shared",
+    "curatedBio": "Wife of Chuza, steward to King Herod Antipas, Joanna was healed of sickness by Jesus Christ and became His devoted disciple. Supporting the apostolic company out of her personal means throughout Judea, she stood with Mary beneath the Cross during the Crucifixion and returned on the third day to anoint Christ’s body, receiving from the angels the proclamation of the Resurrection. She served the early Church in Jerusalem as a motherly pillar of charity.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Joanna reposed peacefully in the first century; celebrated on June 27 and the Sunday of the Myrrhbearers.",
+    "image": {
+      "url": "/icons/saint-06-27.jpg",
+      "title": "Saint Joanna the Myrrhbearer Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joanna,_wife_of_Chuza"
+      },
+      {
+        "label": "Orthodox Church in America (OCA)",
+        "url": "https://www.oca.org/saints/lives/2026/06/27/101828-righteous-joanna-the-myrrhbearer"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-28",
+    "month": 6,
+    "day": 28,
+    "date": "June 28",
+    "name": "Saint Potamiaena of Alexandria",
+    "title": "Holy Virgin Martyr Potamiaena of Alexandria",
+    "tradition": "Shared",
+    "curatedBio": "Potamiaena was a Christian maiden of extraordinary beauty and wisdom living in Alexandria during the persecution under Roman prefect Aquila around 205. Subjected to judicial torture because of her chaste refusal of sexual violation, she was threatened with immersion in a cauldron of boiling pitch unless she blasphemed Christ. Asking that the pitch be poured over her drop by drop so her tormentors might witness her patience, the officer Basilides was so moved by her fortitude that he converted to Christ.",
+    "isMartyr": true,
+    "mannerOfDeath": "Immersion in boiling pitch",
+    "deathSummary": "Saint Potamiaena was martyred in boiling pitch at Alexandria around 205 alongside her mother Saint Marcella.",
+    "image": {
+      "url": "/icons/saint-06-28.jpg",
+      "title": "Saint Potamiaena of Alexandria Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Potamiaena"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-29",
+    "month": 6,
+    "day": 29,
+    "date": "June 29",
+    "name": "Saint Mary, Mother of John Mark",
+    "title": "Saint Mary of Jerusalem, Mother of Saint Mark the Evangelist",
+    "tradition": "Shared",
+    "curatedBio": "Mary was a devout Christian matron living in Jerusalem, a relative of Saint Barnabas and mother of Saint Mark the Evangelist. Her spacious home in Jerusalem served as a primary gathering place and house church for the infant Christian community. When the Apostle Peter was miraculously liberated from prison by an angel in Acts 12, he went directly to Mary’s house, where the Apostles and disciples were gathered in fervent prayer for his deliverance.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Mary reposed peacefully in Jerusalem in the first century after dedicating her house and wealth to the Apostles.",
+    "image": {
+      "url": "/icons/saint-06-29.jpg",
+      "title": "Saint Mary, Mother of John Mark Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_John_Mark"
+      }
+    ]
+  },
+  {
+    "id": "saint-06-30",
+    "month": 6,
+    "day": 30,
+    "date": "June 30",
+    "name": "Saint Lucina of Rome",
+    "title": "Saint Lucina of Rome, Matron and Caregiver of Martyrs",
+    "tradition": "Shared",
+    "curatedBio": "Lucina was a wealthy Roman Christian matron of the noble Anician gens who placed her life and fortune at the service of the persecuted Church in the first century. Instructed by the Apostles Peter and Paul, she visited imprisoned Christians in the Mamertine Prison, provided nourishment to confessors, and retrieved the bodies of martyred saints for sacred burial in her private vineyard catacombs on the Appian and Ostian Ways, where Saint Paul was initially interred.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Lucina reposed peacefully in Rome after surviving imperial persecution and sheltering the apostolic faithful.",
+    "image": {
+      "url": "/icons/saint-06-30.jpg",
+      "title": "Saint Lucina of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lucina_(saint)"
+      }
+    ]
+  }
+]

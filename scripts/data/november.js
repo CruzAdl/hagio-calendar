@@ -1,0 +1,895 @@
+/**
+ * NOVEMBER (30 Days) - Female Saints
+ */
+export const novemberSaints = [
+  {
+    "id": "saint-11-01",
+    "month": 11,
+    "day": 1,
+    "date": "November 1",
+    "name": "Saints Cyrenia and Juliana",
+    "title": "Holy Martyrs Cyrenia and Juliana of Cilicia",
+    "tradition": "Shared",
+    "curatedBio": "Cyrenia and Juliana were devout Christian women of Tarsus in Cilicia during the ferocious persecution under Emperor Maximian Galerius around 304. Known for their active support of imprisoned Christians, Cyrenia was seized and marched naked through the province of Cilicia to the city of Rosus before the proconsul Marcian. Refusing to worship pagan idols or renounce Christ, Juliana was arrested alongside her. Both women were subjected to severe tortures and finally condemned to be burned alive at the stake, glorifying God in the midst of flames.",
+    "isMartyr": true,
+    "mannerOfDeath": "Burned at the stake",
+    "deathSummary": "Saints Cyrenia and Juliana were burned alive in Cilicia around 304 under Maximian Galerius.",
+    "image": {
+      "url": "/icons/saint-11-01.jpg",
+      "title": "Saints Cyrenia and Juliana Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/11/01/103137-martyrs-cyrenia-and-juliana-in-cilicia"
+      },
+      {
+        "label": "CatholicSaints.info",
+        "url": "https://catholicsaints.info/saint-cyrenia-of-tarsus/"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-02",
+    "month": 11,
+    "day": 2,
+    "date": "November 2",
+    "name": "Saint Maura of Constantinople",
+    "title": "Venerable Mother Maura of Constantinople",
+    "tradition": "Eastern Orthodox",
+    "curatedBio": "Maura was born in Constantinople in the fifth century into a patrician family of imperial standing. Inspired from her youth with love for the solitary ascetic life, she renounced aristocratic luxury, gave her wealth to the poor, and entered a women's monastic community in Constantinople. Maura practiced profound humility, unceasing prayer, and severe fasting, acquiring the grace of spiritual discernment and miraculous healing. She served as an exemplary mother to her spiritual daughters until her peaceful departure to the Lord.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Maura reposed peacefully in Constantinople in the fifth century.",
+    "image": {
+      "url": "/icons/saint-11-02.jpg",
+      "title": "Saint Maura of Constantinople Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/11/02/103144-venerable-maura-of-constantinople"
+      },
+      {
+        "label": "CatholicSaints.info",
+        "url": "https://catholicsaints.info/saint-maura-of-constantinople/"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-03",
+    "month": 11,
+    "day": 3,
+    "date": "November 3",
+    "name": "Saint Winifred of Holywell",
+    "title": "Holy Virgin Martyr Winifred (Gwenffrewi) of Holywell",
+    "tradition": "Shared",
+    "curatedBio": "Winifred was a seventh-century Welsh noble maiden, niece to Saint Beuno. When she rejected the lustful advances of chieftain Caradoc to preserve her virginity for Christ, Caradoc pursued her and severed her head with his sword. Tradition recounts that Saint Beuno prayed over her body, restoring her miraculously to life with a thin white scar around her neck, while a healing freshwater spring burst forth where her severed head struck the earth at Holywell (Treffynnon). Winifred later became abbess of Gwytherin in Denbighshire.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation (miraculously revived, lived as abbess)",
+    "deathSummary": "Saint Winifred reposed peacefully at Gwytherin Abbey around 660; Holywell remains the most celebrated continuous pilgrimage shrine in Wales.",
+    "image": {
+      "url": "/icons/saint-11-03.jpg",
+      "title": "Saint Winifred of Holywell Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/15656a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saint_Winifred"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-04",
+    "month": 11,
+    "day": 4,
+    "date": "November 4",
+    "name": "Saint Modesta of Trier",
+    "title": "Saint Modesta of Trier, First Abbess of Oeren",
+    "tradition": "Shared",
+    "curatedBio": "Modesta was a Frankish noblewoman of Austrasia, niece to Saint Modoald, Archbishop of Trier, and close companion to Saint Gertrude of Nivelles. When Saint Modoald established the convent of Saint Marien at Oeren on the banks of the Moselle River in Trier, Modesta was installed as its founding abbess. Known for her humility, charity toward orphans, and profound love of liturgical prayer, she guided her community under the Rule of Saint Columban, transforming the abbey into a radiant center of monastic sanctity.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Modesta reposed peacefully in Trier around 680; buried in the church of Saint Symphorian.",
+    "image": {
+      "url": "/icons/saint-11-04.jpg",
+      "title": "Saint Modesta of Trier Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/10421a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Modesta_of_Trier"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-05",
+    "month": 11,
+    "day": 5,
+    "date": "November 5",
+    "name": "Saint Sylvia of Rome",
+    "title": "Saint Sylvia of Rome, Mother of Saint Gregory the Great",
+    "tradition": "Shared",
+    "curatedBio": "Sylvia was a patrician Roman noblewoman of the Gens Octavia who married Gordianus, a wealthy Roman senator. Sylvia raised her two sons in extraordinary virtue, one of whom became Saint Gregory the Great, Pope and Doctor of the Church. Following her husband's death around 573, Sylvia retired to an ascetic solitary life near the Basilica of Saint Paul Outside the Walls in a small cell called Cella Nova. Each day, she lovingly sent fresh vegetables seasoned with olive oil on a silver dish to her son Gregory at his monastery on the Caelian Hill.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Sylvia reposed peacefully in Rome around 592; venerated as an exemplar of holy Christian motherhood.",
+    "image": {
+      "url": "/icons/saint-11-05.jpg",
+      "title": "Saint Sylvia of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/14371b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Silvia_(saint)"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-06",
+    "month": 11,
+    "day": 6,
+    "date": "November 6",
+    "name": "Saint Beatrice of Olive",
+    "title": "Saint Beatrice of Olive, Cistercian Recluse of Brabant",
+    "tradition": "Catholic",
+    "curatedBio": "Beatrice was born in Tienen (Tirlemont) in Brabant, daughter of the wealthy merchant Bartholomew. Educated by the Beguines, she entered the Cistercian Abbey of Bloemendaal and later lived at the Abbey of Nazareth near Lier. Beatrice was a sublime early medieval Flemish mystic whose profound spiritual treatise, Seven Manners of Holy Love, represents the earliest surviving mystical text written in Middle Dutch. Beatrice detailed the soul's ascending stages of divine contemplation, transforming physical sufferings into radiant love of Christ.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Beatrice reposed peacefully in Nazareth Abbey near Lier on May 3, 1268; celebrated in local martyrologies on November 6.",
+    "image": {
+      "url": "/icons/saint-11-06.jpg",
+      "title": "Saint Beatrice of Olive Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/02377b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Beatrice_of_Nazareth"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-07",
+    "month": 11,
+    "day": 7,
+    "date": "November 7",
+    "name": "Saint Carina of Ankara",
+    "title": "Holy Martyr Carina of Ankara and her Family",
+    "tradition": "Shared",
+    "curatedBio": "Carina lived in Ankara (modern Turkey) during the reign of Emperor Julian the Apostate around 363. Alongside her husband Melasippus and their young son Antoninus, the entire family was arrested for boldly confessing Christ and refusing to offer incense to pagan deities. Brought before Julian the Apostate, they were tied to trees and flayed with iron hooks. Witnessing his parents' endurance, the child Antoninus spat at the idols and proclaimed Christ. After witnessing the martyrdom of her husband and child, Carina was beheaded, sealing their united entry into heaven.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation after flaying",
+    "deathSummary": "Saint Carina was beheaded in Ankara in 363 alongside her husband and young son under Julian the Apostate.",
+    "image": {
+      "url": "/icons/saint-11-07.jpg",
+      "title": "Saint Carina of Ankara Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/11/07/103248-martyrs-melasippus-and-celina-and-their-son-antoninus-of-ancyra"
+      },
+      {
+        "label": "CatholicSaints.info",
+        "url": "https://catholicsaints.info/saint-carina-of-ancyra/"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-08",
+    "month": 11,
+    "day": 8,
+    "date": "November 8",
+    "name": "Saint Elizabeth of the Trinity",
+    "title": "Saint Elizabeth of the Trinity, Carmelite Mystic of Dijon",
+    "tradition": "Catholic",
+    "curatedBio": "Élisabeth Catez was born at the military camp of Avor near Bourges, France. A prodigiously gifted pianist, she experienced profound interior mystical calls to contemplative prayer. In 1901, she entered the Discalced Carmelite monastery in Dijon, taking the religious name Elizabeth of the Trinity. She developed an incandescent spirituality centered upon the indwelling presence of the Most Holy Trinity within the human soul, describing her eternal vocation as being 'Praise of Glory' (Laudem Gloriae). She bore the agonizing pangs of Addison's disease with ecstatic joy.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes (Addison's disease)",
+    "deathSummary": "Saint Elizabeth of the Trinity reposed peacefully in Dijon on November 9, 1906, at age twenty-six; canonized by Pope Francis in 2016.",
+    "image": {
+      "url": "/icons/saint-11-08.jpg",
+      "title": "Saint Elizabeth of the Trinity Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Vatican News Biography",
+        "url": "https://www.vatican.va/news_services/liturgy/saints/2016/ns_lit_doc_20161016_catez_en.html"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_of_the_Trinity"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-09",
+    "month": 11,
+    "day": 9,
+    "date": "November 9",
+    "name": "Saints Eustolia and Sopatra",
+    "title": "Venerable Mothers Eustolia and Sopatra of Constantinople",
+    "tradition": "Eastern Orthodox",
+    "curatedBio": "Eustolia was a devout Christian ascetic of Rome who traveled to Constantinople, while Sopatra was the pious imperial princess, daughter of Byzantine Emperor Maurice. Meeting in Constantinople, Sopatra was so enkindled by Eustolia's burning love for Christ that she renounced imperial palace life and persuaded her father to give them a residence at Blachernae. Together, they established a celebrated monastery of consecrated virgins, guiding numerous women into prayer, continuous psalmody, and charitable ministry to the poor.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saints Eustolia and Sopatra reposed peacefully in Constantinople in the early seventh century.",
+    "image": {
+      "url": "/icons/saint-11-09.jpg",
+      "title": "Saints Eustolia and Sopatra Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/11/09/103264-venerable-eustolia-and-sopatra-of-constantinople"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eustolia_and_Sopatra"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-10",
+    "month": 11,
+    "day": 10,
+    "date": "November 10",
+    "name": "Saint Theoctiste of Lesbos",
+    "title": "Venerable Mother Theoctiste of Lesbos, Solitary of Paros",
+    "tradition": "Eastern Orthodox",
+    "curatedBio": "Theoctiste was born on the island of Lesbos and entered a convent in early youth. At age eighteen, Arab Saracen corsairs raided the convent and captured her; during the voyage to Crete, the ship anchored at the desolate island of Paros, where Theoctiste escaped into the dense wilderness. For thirty-five years, she lived in absolute solitary isolation inside the deserted ruins of the Panagia Ekatontapyliani church, enduring severe winters with no clothes except wild lupine leaves, sustained solely by miraculous divine grace until discovered by a hunter before her holy death.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Theoctiste reposed peacefully on Paros in 889 after receiving the Holy Mysteries from a visiting priest.",
+    "image": {
+      "url": "/icons/saint-11-10.jpg",
+      "title": "Saint Theoctiste of Lesbos Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/11/09/103265-venerable-theoctiste-of-lesbos"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Theoktiste_of_Lesbos"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-11",
+    "month": 11,
+    "day": 11,
+    "date": "November 11",
+    "name": "Saint Marina of Omura",
+    "title": "Holy Martyr Marina of Omura, Dominican Tertiary of Nagasaki",
+    "tradition": "Catholic",
+    "curatedBio": "Marina was a Japanese Christian maiden born in Omura near Nagasaki. Entering the Third Order of Saint Dominic, she consecrated her virginity to Jesus Christ and secretly harbored outlawed Dominican missionaries in her home during the brutal Tokugawa persecutions. Arrested in 1634, the magistrates attempted to humiliate her by marching her bound and stripped through the streets of Omura before transferring her to Nishizaka Hill in Nagasaki. Refusing to apostatize or step upon the fumi-e, Marina was tied to a stake and slowly burned alive.",
+    "isMartyr": true,
+    "mannerOfDeath": "Burned alive at the stake",
+    "deathSummary": "Saint Marina of Omura was martyred by slow fire in Nagasaki on November 11, 1634; canonized among the 16 Martyrs of Japan in 1987.",
+    "image": {
+      "url": "/icons/saint-11-11.jpg",
+      "title": "Saint Marina of Omura Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/09744a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marina_of_Omura"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-12",
+    "month": 11,
+    "day": 12,
+    "date": "November 12",
+    "name": "Saint Frances of Sales Aviat",
+    "title": "Saint Léonie Frances de Sales Aviat, Foundress",
+    "tradition": "Catholic",
+    "curatedBio": "Léonie Aviat was born in Sézanne in Champagne, France. Deeply touched by the miserable living and working conditions of impoverished young female textile workers during the Industrial Revolution, she co-founded the Oblate Sisters of Saint Francis de Sales in Troyes alongside Father Louis Brisson in 1868. Under the motto 'Forget oneself entirely,' Mother Frances opened hostels, factories, and schools to safeguard young working girls, educating them in practical trades and solid Christian virtues while providing dignified, safe wages.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes (bronchopneumonia)",
+    "deathSummary": "Saint Léonie Aviat reposed peacefully in Perugia, Italy, on January 10, 1914; canonized by Pope John Paul II in 2001.",
+    "image": {
+      "url": "/icons/saint-11-12.jpg",
+      "title": "Saint Frances of Sales Aviat Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Vatican News Biography",
+        "url": "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20011125_aviat_en.html"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/L%C3%A9onie_Aviat"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-13",
+    "month": 11,
+    "day": 13,
+    "date": "November 13",
+    "name": "Saint Frances Xavier Cabrini",
+    "title": "Saint Frances Xavier Cabrini, Universal Patroness of Immigrants",
+    "tradition": "Catholic",
+    "curatedBio": "Francesca Saverio Cabrini was born in Sant'Angelo Lodigiano, Italy. In 1880, she founded the Missionary Sisters of the Sacred Heart of Jesus. Aspiring to evangelize China, Pope Leo XIII told her: 'Not to the East, but to the West!' Traveling to New York in 1889, Mother Cabrini tirelessly served impoverished Italian immigrants facing prejudice and squalor. Over three decades, despite fragile health and fear of water, she crossed the Atlantic dozens of times, founding sixty-seven hospitals, orphanages, and schools across North and South America.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes (chronic malaria complications)",
+    "deathSummary": "Saint Frances Xavier Cabrini reposed peacefully in Chicago on December 22, 1917; canonized as the first US citizen saint in 1946.",
+    "image": {
+      "url": "/icons/saint-11-13.jpg",
+      "title": "Saint Frances Xavier Cabrini Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/16016a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Frances_Xavier_Cabrini"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-14",
+    "month": 11,
+    "day": 14,
+    "date": "November 14",
+    "name": "Saint Veneranda of Gaul",
+    "title": "Holy Virgin Martyr Veneranda of Gaul",
+    "tradition": "Shared",
+    "curatedBio": "Veneranda was a noble Christian maiden of Gaul during the persecutions under Emperor Antoninus Pius in the mid-second century. Converted through apostolic preaching, she distributed her wealth to the poor and traveled across Gaul and Italy preaching the resurrection of Jesus Christ. Arrested by Roman magistrates, she was thrown into a cauldron of boiling oil and pitch, but stepped forth completely unscathed. The magistrate, amazed, attempted to examine the cauldron and was blinded by its fumes. Veneranda was finally beheaded outside the city.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation after surviving boiling pitch",
+    "deathSummary": "Saint Veneranda was beheaded in Gaul around 160 under Emperor Antoninus Pius.",
+    "image": {
+      "url": "/icons/saint-11-14.jpg",
+      "title": "Saint Veneranda of Gaul Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "CatholicSaints.info",
+        "url": "https://catholicsaints.info/saint-veneranda-of-gaul/"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Veneranda"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-15",
+    "month": 11,
+    "day": 15,
+    "date": "November 15",
+    "name": "Saint Gertrude the Great",
+    "title": "Saint Gertrude the Great of Helfta, Virgin and Mystic",
+    "tradition": "Catholic",
+    "curatedBio": "Gertrude was accepted as an oblate at age four at the Benedictine (Cistercian) monastery of Saint Mary of Helfta in Saxony. A brilliant scholar in Latin, literature, and philosophy, she underwent a radical mystical conversion at age twenty-five when Christ appeared to her, transforming her intellectual pursuits into contemplative communion. Gertrude became one of history's greatest visionaries of the Sacred Heart of Jesus, authoring Legatus Divinae Pietatis (The Herald of Divine Love), which expounds divine mercy, liturgical prayer, and Eucharistic adoration.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Gertrude the Great reposed peacefully at Helfta Abbey on November 17, 1302; celebrated on November 15/16.",
+    "image": {
+      "url": "/icons/saint-11-15.jpg",
+      "title": "Saint Gertrude the Great Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/06534a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gertrude_the_Great"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-16",
+    "month": 11,
+    "day": 16,
+    "date": "November 16",
+    "name": "Saint Margaret of Scotland",
+    "title": "Saint Margaret of Scotland, Queen and Mother of the Poor",
+    "tradition": "Shared",
+    "curatedBio": "Margaret was an Anglo-Saxon royal princess, granddaughter of King Edmund Ironside, born in exile in Hungary. Following the Norman Conquest, her family fled toward Northumbria, their ship blown off course to Scotland. King Malcolm III Canmore offered them asylum and married Margaret in 1070. As Queen, Margaret reformed the Scottish royal court, introduced ecclesiastical synods to align Scottish practice with the universal Church, washed the feet of beggars, and personally served three hundred destitute Scots daily in the royal banquet hall.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes (grief and illness)",
+    "deathSummary": "Saint Margaret reposed peacefully in Edinburgh Castle on November 16, 1093, four days after Malcolm fell at Alnwick; canonized in 1250.",
+    "image": {
+      "url": "/icons/saint-11-16.jpg",
+      "title": "Saint Margaret of Scotland Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/09655a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-17",
+    "month": 11,
+    "day": 17,
+    "date": "November 17",
+    "name": "Saint Elizabeth of Hungary",
+    "title": "Saint Elizabeth of Hungary, Landgravine of Thuringia, Patroness of Charities",
+    "tradition": "Catholic",
+    "curatedBio": "Elizabeth was the daughter of King Andrew II of Hungary, betrothed at age four to Louis IV, Landgrave of Thuringia, and raised at the Wartburg Castle. Their marriage was filled with profound mutual love and shared piety. Elizabeth built hospitals at the foot of the castle, personally bathing lepers and feeding hundreds daily during the famine of 1226. When Louis died on crusade in 1227, Elizabeth joined the Third Order of Saint Francis, renounced all royal comforts, and wore rough gray woolen garments while nursing dying paupers in Marburg.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes (fever)",
+    "deathSummary": "Saint Elizabeth of Hungary reposed peacefully in Marburg on November 17, 1231, at age twenty-four; canonized by Pope Gregory IX in 1235.",
+    "image": {
+      "url": "/icons/saint-11-17.jpg",
+      "title": "Saint Elizabeth of Hungary Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/05389a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elisabeth_of_Hungary"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-18",
+    "month": 11,
+    "day": 18,
+    "date": "November 18",
+    "name": "Saint Rose Philippine Duchesne",
+    "title": "Saint Rose Philippine Duchesne, Pioneer Missionary to America",
+    "tradition": "Catholic",
+    "curatedBio": "Rose Philippine Duchesne was born in Grenoble, France. After surviving the anti-clerical terrors of the French Revolution by secretly caring for prisoners and the sick, she joined Saint Madeleine-Sophie Barat's Society of the Sacred Heart. In 1818, at age forty-nine, she fulfilled her lifelong dream of foreign mission, sailing to Louisiana and Missouri to establish the first free Catholic school west of the Mississippi River. In her seventies, she lived among the Potawatomi tribe in Kansas, who revered her as Quah-kah-ka-num-ad ('Woman Who Prays Always').",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Rose Philippine Duchesne reposed peacefully in Saint Charles, Missouri, on November 18, 1852; canonized by Pope John Paul II in 1988.",
+    "image": {
+      "url": "/icons/saint-11-18.jpg",
+      "title": "Saint Rose Philippine Duchesne Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Vatican News Biography",
+        "url": "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_19880703_duchesne_en.html"
+      },
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/05188a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rose_Philippine_Duchesne"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-19",
+    "month": 11,
+    "day": 19,
+    "date": "November 19",
+    "name": "Saint Mechtilde of Hackeborn",
+    "title": "Saint Mechtilde of Hackeborn, Mistress of Helfta and Mystic",
+    "tradition": "Catholic",
+    "curatedBio": "Mechtilde was born into the noble Thuringian family of Hackeborn. At age seven, visiting her elder sister Abbess Gertrude at Rodersdorf Monastery, she begged to remain and was clothed in the monastic habit. Renowned for her angelic voice, she served as choir mistress and spiritual director at Helfta Abbey, training young Saint Gertrude the Great. Mechtilde received extraordinary mystical revelations recorded in Liber Specialis Gratiae (The Book of Special Grace), which profoundly influenced the theology of the Sacred Heart and inspired passages in Dante's Divine Comedy.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Mechtilde reposed peacefully at Helfta Abbey on November 19, 1298; venerated for her sublime mystical and musical gifts.",
+    "image": {
+      "url": "/icons/saint-11-19.jpg",
+      "title": "Saint Mechtilde of Hackeborn Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/10105b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mechtilde_of_Hackeborn"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-20",
+    "month": 11,
+    "day": 20,
+    "date": "November 20",
+    "name": "Saint Maxentia of Beauvais",
+    "title": "Holy Virgin Martyr Maxentia of Beauvais",
+    "tradition": "Shared",
+    "curatedBio": "Maxentia was an Irish royal maiden of the sixth century, daughter of King Malcolm. Consecrated secretly to Christ from her youth, she fled Ireland across the sea to Gaul when a pagan chieftain named Avitus sought her hand by force. Accompanied by her faithful servant Barbantius, she retreated into the dense forest near Pont-Sainte-Maxence along the Oise River, building an anchorite cell. Avitus pursued her relentlessly across Gaul; when Maxentia refused his renewed demands, he drew his sword and beheaded her on the riverbank.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation",
+    "deathSummary": "Saint Maxentia was beheaded near Pont-Sainte-Maxence around 500; the town bears her holy name to this day.",
+    "image": {
+      "url": "/icons/saint-11-20.jpg",
+      "title": "Saint Maxentia of Beauvais Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/10049b.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maxentia_of_Beauvais"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-21",
+    "month": 11,
+    "day": 21,
+    "date": "November 21",
+    "name": "Presentation of the Theotokos",
+    "title": "The Entry of the Most Holy Theotokos into the Temple",
+    "tradition": "Shared",
+    "curatedBio": "At three years of age, the child Mary was brought by her righteous parents Joachim and Anna to the Temple in Jerusalem to fulfill their solemn vow of dedication to God. Ascending the fifteen high stone steps unaided to the amazement of all present, she was received by the High Priest Zechariah (father of Saint John the Baptist). Inspired by the Holy Spirit, Zechariah led the young maiden directly into the Holy of Holies, where only the High Priest could enter once a year. There Mary dwelt in prayer, fed with heavenly bread by the Archangel Gabriel.",
+    "isMartyr": false,
+    "mannerOfDeath": "Not applicable (Feast of Entry)",
+    "deathSummary": "Commemoration of Mary's entrance into the Temple Holy of Holies; celebrated across Christendom on November 21.",
+    "image": {
+      "url": "/icons/saint-11-21.jpg",
+      "title": "Presentation of the Theotokos Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/11/21/103357-the-entry-of-the-most-holy-mother-of-god-into-the-temple"
+      },
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/12400a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Presentation_of_Mary"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-22",
+    "month": 11,
+    "day": 22,
+    "date": "November 22",
+    "name": "Saint Cecilia of Rome",
+    "title": "Holy Virgin Martyr Cecilia of Rome, Patroness of Musicians",
+    "tradition": "Shared",
+    "curatedBio": "Cecilia was a noble Roman maiden who vowed perpetual virginity to Christ. Given in marriage to the patrician youth Valerian, she sang silently in her heart to God during the wedding banquet: 'May my heart and body remain pure, O Lord.' Cecilia converted Valerian and his brother Tiburtius, both of whom were martyred for burying Christian corpses. Condemned to suffocation in the scalding steam bath of her own palace, Cecilia emerged untouched. The executioner struck three blows to her neck with a sword but failed to sever her head; she lingered three days, preaching and bequeathing her palace to the Church.",
+    "isMartyr": true,
+    "mannerOfDeath": "Sword blows to the neck after surviving caldarium suffocations",
+    "deathSummary": "Saint Cecilia was martyred in Rome around 230; her incorrupt body was uncovered in 1599 and sculpted by Stefano Maderno.",
+    "image": {
+      "url": "/icons/saint-11-22.jpg",
+      "title": "Saint Cecilia of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/03471b.htm"
+      },
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/11/22/103362-virgin-martyr-cecilia-and-the-martyrs-valerian-tiburtius-and-max"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saint_Cecilia"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-23",
+    "month": 11,
+    "day": 23,
+    "date": "November 23",
+    "name": "Saint Felicity of Rome",
+    "title": "Holy Martyr Felicity of Rome and her Seven Sons",
+    "tradition": "Shared",
+    "curatedBio": "Felicity was a wealthy Roman Christian widow who devoted her life to fasting, vigils, and works of charity, raising her seven sons—Januarius, Felix, Philip, Silvanus, Alexander, Vitalis, and Martial—in orthodox Christian faith. Pagan priests denounced her to Emperor Antoninus Pius, claiming the gods were angered by her conversions. Interrogated by prefect Publius, Felicity exhorted each of her seven sons to welcome death rather than deny Christ. Publius ordered each son executed before her eyes under diverse cruelties; four months later, Felicity herself was crowned with martyrdom by the sword.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation after witnessing martyrdom of all seven sons",
+    "deathSummary": "Saint Felicity was beheaded in Rome around 165 under Emperor Antoninus Pius; commemorated on November 23.",
+    "image": {
+      "url": "/icons/saint-11-23.jpg",
+      "title": "Saint Felicity of Rome Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/06029b.htm"
+      },
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/01/25/100305-martyr-felicitas-of-rome-and-her-seven-sons"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Felicitas_of_Rome"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-24",
+    "month": 11,
+    "day": 24,
+    "date": "November 24",
+    "name": "Saints Flora and Mary",
+    "title": "Holy Virgin Martyrs Flora and Mary of Córdoba",
+    "tradition": "Catholic",
+    "curatedBio": "Flora was born in Córdoba to a Muslim father and Christian mother; following her father's death, she was raised in the Christian faith. Denounced by her Muslim brother and brutally scourged, Flora fled into hiding. Later, meeting Saint Mary (sister of the martyred deacon Walabonsus) at the Church of Saint Acisclus, both maidens were filled with holy zeal and presented themselves before the Islamic judge (qadi), boldly confessing Christ. Encouraged in prison by Saint Eulogius of Córdoba, who composed the Memorial of the Saints for them, both virgins were beheaded.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation",
+    "deathSummary": "Saints Flora and Mary were beheaded in Córdoba on November 24, 851; eulogized by Saint Eulogius.",
+    "image": {
+      "url": "/icons/saint-11-24.jpg",
+      "title": "Saints Flora and Mary Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/06111a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Flora_and_Maria"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-25",
+    "month": 11,
+    "day": 25,
+    "date": "November 25",
+    "name": "Saint Catherine of Alexandria",
+    "title": "Holy Great Martyr Catherine of Alexandria, Bride of Christ",
+    "tradition": "Shared",
+    "curatedBio": "Catherine was an exceptionally erudite royal princess of Alexandria who mastered Greek philosophy, rhetoric, and sciences. Embracing Christ through a mystical betrothal vision, she confronted Emperor Maxentius during a pagan festival. Maxentius summoned fifty of the empire's foremost philosophers to debate her; Catherine defeated their arguments through Scripture and philosophy, converting all fifty philosophers, who were martyred on the spot. Condemned to be broken upon an iron-spiked wheel, an angel struck the wheel and shattered it. Catherine was then beheaded, her body carried by angels to Mount Sinai.",
+    "isMartyr": true,
+    "mannerOfDeath": "Decapitation after the breaking wheel was shattered by an angel",
+    "deathSummary": "Saint Catherine was beheaded in Alexandria around 305; her relics rest at Saint Catherine's Monastery on Mount Sinai.",
+    "image": {
+      "url": "/icons/saint-11-25.jpg",
+      "title": "Saint Catherine of Alexandria Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/11/24/103383-great-martyr-catherine-of-alexandria"
+      },
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/03445a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Catherine_of_Alexandria"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-26",
+    "month": 11,
+    "day": 26,
+    "date": "November 26",
+    "name": "Saint Delphina of Sabran",
+    "title": "Blessed Delphina of Glandèves, Countess of Sabran",
+    "tradition": "Catholic",
+    "curatedBio": "Delphina was born into Provençal nobility at the Château de Puy-Michel. Orphaned at age seven, she vowed virginity to God, but was compelled by King Charles II of Naples to marry Saint Elzéar of Sabran. On their wedding night, Delphina persuaded Elzéar to live in virginal chastity; both entered the Third Order of Saint Francis, practicing prayer, penance, and abundant charity. Following Elzéar's death in Paris in 1323, Delphina gave away all her possessions, dressed in ragged garments, and lived as a mendicant recluse in Apt, France.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Delphina reposed peacefully in Apt on November 26, 1360, at age seventy-six; buried alongside Saint Elzéar.",
+    "image": {
+      "url": "/icons/saint-11-26.jpg",
+      "title": "Saint Delphina of Sabran Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/04693a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Delphine_of_Gland%C3%A8ves"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-27",
+    "month": 11,
+    "day": 27,
+    "date": "November 27",
+    "name": "Saint Bilhildis of Mainz",
+    "title": "Saint Bilhildis of Mainz, Foundress and Abbess of Altenmünster",
+    "tradition": "Shared",
+    "curatedBio": "Bilhildis was a Frankish noblewoman born in Veitshöchheim near Würzburg in the seventh century. Given in marriage to the Duke of Thuringia, she bore a son while remaining deeply devoted to Christian prayer. When her husband was killed in military combat, Bilhildis traveled to Mainz, where she was received by her maternal uncle Bishop Rigibert. Using her substantial widowhood inheritance, she founded the Abbey of Altenmünster in Mainz, serving as its humble abbess and feeding the impoverished throughout the Rhine valley.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Bilhildis reposed peacefully in Mainz around 734; venerated as patroness of Mainz and Veitshöchheim.",
+    "image": {
+      "url": "/icons/saint-11-27.jpg",
+      "title": "Saint Bilhildis of Mainz Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/02565c.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bilhildis_of_Altenm%C3%BCnster"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-28",
+    "month": 11,
+    "day": 28,
+    "date": "November 28",
+    "name": "Saint Catherine Labouré",
+    "title": "Saint Catherine Labouré, Visionary of the Miraculous Medal",
+    "tradition": "Catholic",
+    "curatedBio": "Zoé Labouré was born in Fain-lès-Moutiers, Burgundy, the ninth of eleven children. Following her mother's death when Zoé was nine, she embraced a statue of Mary, declaring: 'Now you will be my mother.' Entering the Daughters of Charity of Saint Vincent de Paul in Paris, Sister Catherine received apparitions of the Blessed Virgin Mary in the chapel of Rue du Bac in 1830. Mary showed her the design of the Miraculous Medal encircled by the words: 'O Mary, conceived without sin, pray for us who have recourse to thee.' Catherine served silently in an elderly hospice for forty-six years.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Catherine Labouré reposed peacefully in Paris on December 31, 1876; her incorrupt body rests in the Chapel of Our Lady of the Miraculous Medal.",
+    "image": {
+      "url": "/icons/saint-11-28.jpg",
+      "title": "Saint Catherine Labouré Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "Catholic Encyclopedia",
+        "url": "https://www.newadvent.org/cathen/08743a.htm"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-29",
+    "month": 11,
+    "day": 29,
+    "date": "November 29",
+    "name": "Saint Illuminata of Todi",
+    "title": "Holy Virgin Illuminata of Todi",
+    "tradition": "Shared",
+    "curatedBio": "Illuminata was a Christian maiden of Ravenna in Umbria during the persecutions under Emperor Diocletian around 303. Converted in her youth, she refused to participate in pagan sacrifices and was imprisoned by the local governor. Delivered miraculously from the dungeon, she fled to Todi in central Italy, where she lived as an anchorite in prayer and penance. Her holy life and miraculous healings illuminated the surrounding Umbrian towns with the light of the Gospel, leading numerous pagans to baptism before she surrendered her soul to God.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Illuminata reposed peacefully in Todi around 320; enshrined in the Church of San Fortunato in Todi.",
+    "image": {
+      "url": "/icons/saint-11-29.jpg",
+      "title": "Saint Illuminata of Todi Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "CatholicSaints.info",
+        "url": "https://catholicsaints.info/saint-illuminata-of-todi/"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Illuminata"
+      }
+    ]
+  },
+  {
+    "id": "saint-11-30",
+    "month": 11,
+    "day": 30,
+    "date": "November 30",
+    "name": "Saint Justina of Constantinople",
+    "title": "Venerable Mother Justina of Constantinople",
+    "tradition": "Eastern Orthodox",
+    "curatedBio": "Justina was born in Constantinople in the sixth century into a pious Christian family. Consecrating herself to monastic seclusion, she entered a convent near the imperial palace where she was renowned for profound silence, tears of compunction, and unbroken psalmody. Over several decades of monastic labor, Justina became a spiritual guide to noblewomen of the Byzantine capital seeking refuge from political turmoil, consoling the grieving and healing the afflicted through her prayers.",
+    "isMartyr": false,
+    "mannerOfDeath": "Natural causes",
+    "deathSummary": "Saint Justina reposed peacefully in Constantinople in the late sixth century.",
+    "image": {
+      "url": "/icons/saint-11-30.jpg",
+      "title": "Saint Justina of Constantinople Sacred Icon",
+      "source": "Liturgical Iconography Archive",
+      "verified": true
+    },
+    "sources": [
+      {
+        "label": "OCA Feasts and Saints",
+        "url": "https://www.oca.org/saints/lives/2026/11/30/103444-venerable-justina"
+      },
+      {
+        "label": "CatholicSaints.info",
+        "url": "https://catholicsaints.info/saint-justina-30-november/"
+      }
+    ]
+  }
+];
